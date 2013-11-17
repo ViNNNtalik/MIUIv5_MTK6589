@@ -56,4 +56,10 @@
         <item>Понедельник-пятница</item>
         <item>Выбор дней</item>
     </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Один раз</item>
+        <item>Ежедневно</item>
+        <item>Понедельник-пятница</item>
+        <item>Выбор дней</item>
+    </string-array>
 </resources>

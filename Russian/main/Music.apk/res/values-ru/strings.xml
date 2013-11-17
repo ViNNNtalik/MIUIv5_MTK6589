@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="music_browser_label">Музыка</string>
+    <string name="mediaplaybacklabel">Музыка</string>
+    <string name="music_picker_title">Выберите песню</string>
+    <string name="mi_effect">MiSound</string>
     <string name="complete">Готово</string>
     <string name="confirm">ОК</string>
     <string name="cancel">Отмена</string>
@@ -21,6 +25,14 @@
     <string name="not_selected">Выбор песни</string>
     <string name="file_not_found">Файл не найден</string>
     <string name="music_settings">Настройки</string>
+    <string name="account_setting">Аккаунт</string>
+    <string name="account_and_synchronization">Аккаунт и синхронизация</string>
+    <string name="xiaomi_account_setting">Аккаунт Xiaomi</string>
+    <string name="bind_baidu_account_setting">Аккаунт Baidu</string>
+    <string name="bind_baidu_account_summary">Загрузите плейлист из своего аккаунта Baidu</string>
+    <string name="synchronize_playlist_setting">Синхронизировать плейлист</string>
+    <string name="synchronize_playlist_summary">Синхронизировать плейлист онлайн</string>
+    <string name="not_login">Вход</string>
     <string name="mobile_connect_settings">Мобильная сеть</string>
     <string name="download_album_settings">Загрузка обложек</string>
     <string name="download_album_summary">Автоматическая загрузка обложек через Интернет</string>
@@ -112,7 +124,6 @@
     <string name="sort_by_track">Сортировать по песням</string>
     <string name="sort_by_album">Сортировать по альбомам</string>
     <string name="sort_by_artist">Исполнители</string>
-    <string name="music_picker_title">Выберите песню</string>
     <string name="empty_track_list">Пусто</string>
     <string name="search_settings_description">Исполнители, альбомы и песни</string>
     <string name="search_hint">Поиск музыки</string>
@@ -195,8 +206,6 @@
     <string name="playback_failed_no_title_by_bad_file">"Невозможно проиграть песню. Файл не существует или его формат не поддерживается"</string>
     <string name="playback_failed_no_title_by_network">"Невозможно проиграть песню. Проверьте сетевое подключение"</string>
     <string name="buffering">Кэширование…</string>
-    <string name="music_browser_label">Музыка</string>
-    <string name="mediaplaybacklabel">Музыка</string>
     <string name="artists_title">"Исполнители "</string>
     <string name="albums_title">"Альбомы "</string>
     <string name="folders_title">"Папки "</string>
@@ -230,7 +239,6 @@
     <string name="powered_by">Техническая поддержка:</string>
     <string name="project_device">Xiaomi Box</string>
     <string name="project_device_mobile">Мобильный телефон</string>
-    <string name="mi_effect">MiSound</string>
     <string name="headphone_settings">Настройки наушников</string>
     <string name="mi_effect_title">Использовать MiSound усилитель</string>
     <string name="mi_effect_summary">Всегда использовать MiSound усилитель при прослушивании через наушники</string>

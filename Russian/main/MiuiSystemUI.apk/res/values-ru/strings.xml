@@ -257,6 +257,9 @@ d MMMM yyyy"</string>
     <string name="oldman_status_bar_time_format">HH:mm</string>
     <string name="oldman_airplane_mode_text">airplane</string>
     <string name="oldman_incall_text">incall</string>
+    <string name="audio_effect_settings">Тип наушников</string>
+    <string name="audio_effect_info">Улучшение звука</string>
+    <string name="audio_effect_custom">Настройки</string>
     <string name="status_bar_toggle_ac">Доступ</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_brightness">Яркость</string>

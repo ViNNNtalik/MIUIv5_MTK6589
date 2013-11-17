@@ -875,7 +875,7 @@
     <string name="option_delete_group">Удалить группу</string>
     <string name="deleteConfirmation_title">Удаление контакта</string>
     <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" включает в себя информацию из нескольких аккаунтов. Информация только для чтения будет скрыта из списка, но не удалена</string>
-    <string name="multipleContactDeleteConfirmationDetail">\"%1$s\" содержит информацию в нескольких аккаунтах. Удаление \"%2$s\" приведет к очистке информации из всех аккаунтов</string>
+    <string name="multipleContactDeleteConfirmationDetail">Удаление \"%s\" приведет к удалению информации из нескольких аккаунтов</string>
     <string name="deleteConfirmationDetail">\"%s\" будет удален</string>
     <string name="nickname_picker_name_column">Имя контакта</string>
     <string name="nickname_picker_nickname_column">Имя</string>

@@ -2572,6 +2572,7 @@ Android File Transfer,
     <string name="restrict_background_data_title">Фоновая передача данных ограничена</string>
     <string name="restrict_background_data_dialog_summary">"Приложения, запущенные в фоне, не смогут получать сообщения. Продолжить?"</string>
     <string name="restrict_background_data_notification_summary">"Приложения не смогут подключаться к сети, если ограничена фоновая передача данных"</string>
+    <string name="accessibility_screen_magnification_enable">Жесты для увеличения</string>
     <string name="bluetooth_advanced_settings">Дополнительные настройки</string>
     <string name="bluetooth_profile_ftp">Передача файлов</string>
     <string name="bluetooth_ftp_profile_summary_use_for">Использовать для передачи файлов</string>
@@ -3036,6 +3037,9 @@ Android File Transfer,
     <string name="wifi_failover_gprs_content">Wi-Fi недоступна, подключиться к мобильной сети?</string>
     <string name="change_data_conn_title">Изменить тип передачи данных</string>
     <string name="change_data_conn_message">%1$s не доступен, переключить на соединение по умолчанию на %2$s?</string>
+    <string name="default_sdcard_select_msg">"Если вы выберите %1$s, приложения на %2$s не будут работать и устройство перезагрузится. Вы уверены, что хотите заменить на %3$s？"</string>
+    <string name="reboot_confirm">Перезагрузка</string>
+    <string name="select_memory_title">Выбор памяти по умолчанию</string>
     <string name="sound_switch">Переключение звука</string>
     <string name="eng_mode">Инженерное меню</string>
     <string name="eng_mode_summary">Сбор информации, статистика, тонкие настройки всевозможных параметров телефона</string>

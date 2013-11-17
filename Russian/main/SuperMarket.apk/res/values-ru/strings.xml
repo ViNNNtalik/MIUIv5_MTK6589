@@ -29,12 +29,14 @@
     <string name="hot_subject">Коллекции</string>
     <string name="more_app">Еще</string>
     <string name="more_subject">Коллекции</string>
+    <string name="ad_indicator">AD</string>
     <string name="login_first_install_title">Вход в Xiaomi-аккаунт</string>
     <string name="login_active_title">Хотите активировать его сейчас?</string>
     <string name="login_download_title">Вход в Xiaomi-аккаунт</string>
     <string name="login_skip">Далее</string>
     <string name="login_ok">Войти</string>
     <string name="login_active">Активировать</string>
+    <string name="account_not_activated">Ваш аккаунт не активирован, активируйте его и попробуйте снова</string>
     <string name="pref_category_title_notification">Уведомления</string>
     <string name="pref_category_title_other">Другое</string>
     <string name="pref_category_title_version">Версия</string>
@@ -51,6 +53,8 @@
     <string name="pref_title_hotsubjects_notification">Сообщить о последней теме</string>
     <string name="pref_title_network_diagnostics">Диагностика сети</string>
     <string name="pref_title_clear_cache">Очистить кэш</string>
+    <string name="pref_title_clear_session">Очистить сесию</string>
+    <string name="pref_title_show_report_data">@string/show_report_data</string>
     <string name="clear_search_record_message">Очистить историю поиска?</string>
     <string name="result_of_clear_history">История поиска успешно очищена</string>
     <string name="pref_summary_auto_update_via_wifi">Обновление по Wi-Fi в режиме сна</string>
@@ -58,6 +62,9 @@
     <string name="clear_cache_message">Очистить кэш?</string>
     <string name="clear_cache_succeed">Кэш очищен</string>
     <string name="clear_cache_failed">Ошибка очистки кэша, попробуйте позже</string>
+    <string name="clear_session_message">Очистить сессию?</string>
+    <string name="show_report_data">Показать отчет</string>
+    <string name="temporarily_invalid_report_data">Упс! Отчет временно недействителен!</string>
     <string name="no_comment">Нет комментариев</string>
     <string name="comment_sending">Отправка…</string>
     <string name="comment_upload_failed">Ошибка отправки</string>
@@ -97,6 +104,7 @@
     <string name="comment_current_version">Текущая версия</string>
     <string name="rating_button">Голосов: %1$s</string>
     <string name="developer_button">Показать еще</string>
+    <string name="permission_button">Разрешения(%1$s)</string>
     <string name="update_date_label">Загружен：</string>
     <string name="update_date">%3$s, %2$s, %1$s</string>
     <string name="version_label">Версия:</string>
@@ -194,7 +202,10 @@
     <string name="notif_installing">Установка “%1$s”…</string>
     <string name="notif_install_successful">%1$s успешно установлено</string>
     <string name="notif_install_successful_default">%1$s установлено</string>
-    <string name="notif_delta_update_successful">Успешно обновлено. %1$s сохранено</string>
+    <string name="notif_update_successful">Обновлено</string>
+    <string name="notif_update_successful_default">Обновлено</string>
+    <string name="notif_delta_update_successful">Дельта обновление %1$s завершено</string>
+    <string name="notif_delta_update_successful_default">Дельта обновление %1$s завершено</string>
     <string name="notif_install_failed">Сбой установки %1$s</string>
     <string name="notif_auto_update_via_wifi">Обновление: %1$s</string>
     <string name="notif_auto_update_successfull">%1$s обновление завершено</string>
@@ -251,4 +262,21 @@
     <string name="diagnostics_data_sending">Отправка журнала…</string>
     <string name="diagnostics_data_upload_success">Отправка завершена</string>
     <string name="diagnostics_data_upload_failed">Отправка не удалась. Попробуйте заново</string>
+    <string name="tab_local_apps">Установленные</string>
+    <string name="tab_favorites">Избранные</string>
+    <string name="favorite_success">Успешно добавлено</string>
+    <string name="favorite_fail">Ошибка добавления</string>
+    <string name="favorite_fail_other_market">Невозможно добавить в избранное из другого маркета</string>
+    <string name="favorite_delete_success">Успешно удалено из избранного</string>
+    <string name="favorite_delete_fail">Ошибка удаления из избранного</string>
+    <string name="favorite_account_need_activitied">Ваш аккаунт не активирован, активировать сейчас?</string>
+    <string name="favorite_account_need_login">Авторизироваться сейчас, чтобы добавить приложение в избранное?</string>
+    <string name="favorite_cancel_acount_need_login">Авторизироваться сейчас, чтобы удалить приложение из избранного?</string>
+    <string name="favorite_no_network">Интернет недоступен. Невозможно добавить в избранное</string>
+    <string name="favorite_cancel_no_network">Интернет недоступен. Невозможно удалить из избранного</string>
+    <string name="favorite_login_hint">Войдите в аккаунт Xioami, чтобы добавить приложения в избранное</string>
+    <string name="login_now">Войти</string>
+    <string name="activate_now">Активировать</string>
+    <string name="my_app">Мои приложения</string>
+    <string name="no_favorites">Нет избранного</string>
 </resources>

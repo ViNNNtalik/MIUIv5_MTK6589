@@ -443,8 +443,7 @@
     <string name="return_to_me_message">Пожалуйста, верните, если я потерял</string>
     <string name="unlock_string">OK</string>
     <string name="open_wifi_settings">Открытое подключение к сети</string>
-    <string name="lock_screen_date">
-EEEE, d MMMM</string>
+    <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="unlockscreen_low_battery">Подключите зарядное устройство</string>
     <string name="send">Отправить</string>
     <string name="share">Отправить</string>
@@ -460,6 +459,7 @@ EEEE, d MMMM</string>
     <string name="sim_locked">SIM-карта заблокирована</string>
     <string name="sim_not_ready">SIM-карта используется. Пожалуйста, попробуйте позже.</string>
     <string name="sim_in_airplane_mode">Отключите режим полета</string>
+    <string name="android_PinMmi">@*android:string/PinMmi</string>
     <string name="sim_changed_reactivate_int_notice">Текущая SIM-карта не активирована. Необходимо отправить SMS для активации облачных Xiaomi-служб. Активировать сейчас?</string>
     <string name="days">%d дней</string>
     <string name="hours">%d часов</string>
@@ -470,8 +470,38 @@ EEEE, d MMMM</string>
     <string name="app_notificaiton_on_statusBar_and_notificationBar">Панели сост. и увед.</string>
     <string name="app_no_notification">Ничего</string>
     <string name="app_notificaiton_on_notificationBar">Панель увед.</string>
+    <string name="android_safe_media_volume_warning">@*android:string/safe_media_volume_warning</string>
     <string name="device_hongmi">Телефон Red Rice</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Вы ввели неверный пароль %d раз. После %d неудачных попыток, вам будет предложено разблокировать телефон с помощью аккаунта Xiaomi. Повторите через %d сек."</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Вы ввели неверный пароль %d раз. После %d неудачных попыток, вам будет предложено разблокировать телефон с помощью аккаунта Xiaomi.
+
+ Повторите через %d сек."</string>
+    <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
+    <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
+    <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
+    <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
+    <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
+    <string name="deprecated_57" />
+    <string name="android_action_bar_up_description">@*android:string/action_bar_up_description</string>
     <string name="volume_ring_description">Мелодия &amp; уведомления</string>
     <string name="login_website_in_case_forget_password">Если Вы забыли пароль, посетите visit i.xiaomi.com для его сброса</string>
+    <string name="anti_aggression_day">反侵略日</string>
+    <string name="tw_youth_day">青年節</string>
+    <string name="tw_childrens_day">兒童節</string>
+    <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
+    <string name="armed_forces_day">軍人節</string>
+    <string name="united_nations_day">聯合國日</string>
+    <string name="retrocession_day">光復節</string>
+    <string name="deprecated_54" />
+    <string name="deprecated_55" />
+    <string name="toast_lockscreen_glogin_empty_password">Пароль не требуется</string>
+    <string name="yellow_page_unable_send_sms">Не удается отправить сообщение</string>
+    <string name="yellow_page_module_sms_sent">Сообщение отправлено</string>
+    <string name="yellow_page_sms_send_failed">Ошибка отправки сообщения</string>
+    <string name="yellow_page_sms_sending">Отправка…</string>
+    <string name="yellow_page_sms_disabled_in_privacy_mode">Невозможно отправить сообщение в режиме гостя</string>
+    <string name="android_grant_permissions_header_text">@*android:string/grant_permissions_header_text</string>
+    <string name="android_deny">@*android:string/deny</string>
+    <string name="android_allow">@*android:string/allow</string>
+    <string name="grant_permissions_apps">Запрос доступа приложения</string>
+    <string name="grant_permissions_account">Запрос доступа аккаунта</string>
 </resources>

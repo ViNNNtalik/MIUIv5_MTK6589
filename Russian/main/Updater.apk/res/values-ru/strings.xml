@@ -12,9 +12,11 @@
     <string name="download_whole_rom">Полный пакет (%s)</string>
     <string name="download_ota_rom">Обновление (%s)</string>
     <string name="apply_later_button_text">Обновить позже</string>
-    <string name="apply_update_timer">Обновление завершено, устройство перезагрузится через %d сек.</string>
+    <string name="apply_update_timer">устройство перезагрузится через %d сек.</string>
     <string name="reboot_now">Сейчас</string>
     <string name="reboot_later">Позже</string>
+    <string name="now">Перезагруить сейчас</string>
+    <string name="later">Перезагрузить позже</string>
     <string name="start_update">Начать обновление</string>
     <string name="applying_update">Применение обновления: %s</string>
     <string name="apply_update_fail">Ошибка обновления</string>
@@ -168,11 +170,7 @@
     <string name="comment_upload_success">Отзыв отослан!</string>
     <string name="comment_invalid">Пожалуйста, нажмите на звездочку для определения рейтинга</string>
     <string name="comment_upload_not_logined">Пожалуйста, сперва войдите в аккаунт</string>
-<<<<<<< HEAD
-    <string name="fourgrid_hint_text">Уважаемый пользователь, благодарим Вас за использование нашей прошивки. Расскажите, пожалуйста, что вы думаете о прошивке, этим вы поможете нам сделать MIUI лучше</string>
-=======
     <string name="fourgrid_hint_text">Уважаемый пользователь, благодарим вас за использование нашей прошивки. Расскажите, пожалуйста, что вы думаете о прошивке, этим Вы поможете нам сделать MIUI лучше</string>
->>>>>>> update 04/11
     <string name="fourgrid_notificaiont">Отображать в панели уведомлений</string>
     <string name="fourgrid_no_notificaiont">Не отображать в панели уведомлений</string>
 </resources>

@@ -314,6 +314,7 @@
     <string name="send_multiple_files_hint_format">Отправить файлы (%s)</string>
     <string name="send">Отправить</string>
     <string name="select_too_much_to_send_tips">Изображений для отправки слишком много. Максимум: %d</string>
+    <string name="pick_too_much_tips">Невозможно выбрать столько элементов. Максимум: %d</string>
     <string name="sd_not_available">SD-карта отмонтирована или недоступна</string>
     <string name="internal_sd_card">Внутреннее хранилище</string>
     <string name="external_sd_card">SD-карта</string>
@@ -332,6 +333,7 @@
     <string name="operation_refresh">Обновить</string>
     <string name="operation_set_as_screensaver">Установить как скринсейвер</string>
     <string name="operation_unset_as_screensaver">Отменить скринсейвер</string>
+    <string name="operation_add_picture">Добавить изображения</string>
     <string name="how_many_videos">Видео: %d</string>
     <string name="how_many_sub_folders">Папок: %d</string>
     <string name="directory_info_divider">"  |  "</string>
@@ -485,5 +487,14 @@
     <string name="where_is_barcode">Где получить QR-код?</string>
     <string name="scan_barcode_guide">Получение QR-кода альбома</string>
     <string name="confirm">ОК</string>
+    <string name="click_top_right">Нажмите на иконку вверху справа</string>
     <string name="there_is_no_image">Нет изображений</string>
+    <string name="preparing_data_to_delete">Подготовка данных изображения для удаления.</string>
+    <string name="picker_tab_camera">Камера</string>
+    <string name="picker_no_items_selected">Не выбрано элементов</string>
+    <string name="picker_select_album_title_empty">Выбрать альбом</string>
+    <string name="picker_no_album_selected">Не выбрано альбомов</string>
+    <string name="video_download_start">Начать загрузку видео</string>
+    <string name="video_download_in_process">Видео загружается</string>
+    <string name="video_not_exist">Видео не существует</string>
 </resources>

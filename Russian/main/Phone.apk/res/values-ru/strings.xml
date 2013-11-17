@@ -1378,6 +1378,7 @@ SIM-карта будет заблокирована навсегда при н�
     <string name="antispam_marked_title">%1$s</string>
     <string name="antispam_marked_count">Отклонено: %1$d</string>
     <string name="antispam_notification_title">Определен неизвестный номер</string>
+    <string name="antispam_provider">Определено %s</string>
     <string name="enable_antispam_strange_title">Антиспам-вызов</string>
     <string name="enable_antispam_strange_summary">Не уведомлять о первом входящем вызове от неизвестного номера</string>
     <string name="phone_info_divider">" ｜ "</string>
