@@ -157,6 +157,7 @@ d MMMM yyyy"</string>
     <string name="filter_item_preview_image">Предпросмотр</string>
     <string name="filter_item_description">Вы можете в меню \"Настройки-Панель состояния-пользовательские уведомления\" задать тип уведомлений</string>
     <string name="settings_notification_bar">Панель уведомления</string>
+    <string name="settings_screenshot_notification_disabled">Скриншот без уведомления</string>
     <string name="settings_toggle_position">Расположение переключателей</string>
     <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
     <string name="settings_expanded_view">Настройки раскрытия</string>
