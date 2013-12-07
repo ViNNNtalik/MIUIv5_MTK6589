@@ -587,8 +587,8 @@
     <string name="download_dialog_file_length_lessthan1kb">Менее 1 Кб</string>
     <string name="download_dialog_default_path_invalid">Путь загрузки неправильный. Используется путь по умолчанию</string>
     <string name="modify_download_path_no_sdcard_dlg_msg">SD-карта отключена</string>
-    <string name="bottom_bar_tabs_long_click_up_tip_txt">Слайд вверх для закрытия</string>
-    <string name="bottom_bar_tabs_long_click_down_tip_txt">Слайд вниз для закрытия</string>
+    <string name="bottom_bar_tabs_long_click_up_tip_txt">Вверх для закрытия</string>
+    <string name="bottom_bar_tabs_long_click_down_tip_txt">Вниз для закрытия</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Последняя вкладка</string>
     <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Уведомление о Wi-Fi</string>
     <string name="network_show_wifi_setting_tip_dialog_setting_title">При использовании 2G/3G Вы будете получать уведомления о доступных Wi-Fi</string>
