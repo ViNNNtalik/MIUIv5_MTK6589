@@ -67,7 +67,7 @@
     <string name="default_folder_title_tools">Инструменты</string>
     <string name="default_folder_title_recommend">Рекомендуемые</string>
     <string name="default_folder_title_game">Игры</string>
-    <string name="default_folder_title_security">Безопасность</string>
+    <string name="default_folder_title_security">Система</string>
     <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="reset_scene_prompt">Расположение иконок на свободном рабочем столе будет сброшено в стандартное расположение</string>
     <string name="preferences_title">Рабочий стол</string>
