@@ -2580,6 +2580,10 @@ Android File Transfer,
     <string name="mtp_transfer_unmount_error_text">SD-карта не может быть отсоединена во время передачи файлов</string>
     <string name="mtp_transfer_erase_error_text">SD-карта не может быть очищена во время передачи файлов</string>
     <string name="launch_error">"Не удается запустить приложение!"</string>
+    <string name="picture_source">Выбор изображения</string>
+	<string name="only_when_charging">Только во время зарядки</string>
+	<string name="miui_screensaver_show_time">Продолжительность</string>
+	<string name="miui_screensaver_show_time_select_title">Продолжительность слайдшоу</string>
     <string name="dlg_confirm_unmount_usb_title">Отключить USB-накопитель?</string>
     <string name="dlg_confirm_unmount_usb_text">Если Вы отключите USB-хранилище, некоторые приложения могут быть недоступны до его обратного включения</string>
     <string name="miui_screensaver_state_on">Вкл.</string>
