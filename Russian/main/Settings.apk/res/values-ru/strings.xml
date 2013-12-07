@@ -2582,10 +2582,15 @@ Android File Transfer,
     <string name="launch_error">"Не удается запустить приложение!"</string>
     <string name="dlg_confirm_unmount_usb_title">Отключить USB-накопитель?</string>
     <string name="dlg_confirm_unmount_usb_text">Если Вы отключите USB-хранилище, некоторые приложения могут быть недоступны до его обратного включения</string>
+    <string name="miui_screensaver_state_on">Вкл.</string>
+    <string name="miui_screensaver_state_off">Выкл.</string>
+	<string name="miui_screensaver_title">Заставка</string>
+    <string name="activate_miui_screensaver">Заставка в режиме сна</string>
     <string name="dlg_error_unmount_usb_title" />
     <string name="dlg_error_unmount_usb_text">Не удается отключить USB-хранилище. Попробуйте позже</string>
     <string name="unmount_usb_inform_text">USB-хранилище будет отключено</string>
     <string name="sd_eject_usbstorage">Отключение USB-хранилища</string>
+    <string name="miui_screensaver_usage">После выбора, заставка будет показана через 5 секунд после выключения экрана</string>
     <string name="sd_eject_usbstorage_summary">Отключение USB-хранилища для его безопасного извлечения</string>
     <string name="sd_mount_usbstorage">Подключить USB-хранилище</string>
     <string name="sd_insert_usb_summary">Вставьте USB-хранилище для подключения</string>
