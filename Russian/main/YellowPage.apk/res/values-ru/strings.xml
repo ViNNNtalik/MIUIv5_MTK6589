@@ -103,7 +103,7 @@
     <string name="packages_select_sim_cards_summmary">Система будет рекомендовать пакеты трафиков согласно вашему выбору</string>
     <string name="packages_no_package">Нет пакетов</string>
     <string name="login_ok">Логин</string>
-    <string name="login_before_recharging">Вам необходимо войти в аккаунт перед пополнением</string>
+    <string name="login_before_use">Вам необходимо войти в аккаунт перед пополнением</string>
     <string name="express_inquiry">Отслеживание</string>
     <string name="express_inquiry_serial_number_indication">Номер отслеживания</string>
     <string name="express_inquiry_logistics_indication">Курьерская компания</string>
@@ -120,6 +120,8 @@
     <string name="express_inquiry_history">История</string>
     <string name="express_inquiry_delivered">Доставлено</string>
     <string name="express_inquiry_no_history">Нет истории</string>
+    <string name="express_inquiry_delete_warning_single">Удалить эту запись?</string>
+    <string name="express_inquiry_delete_warning_multiple">Удалить выбранные записи? \n\nЗаписей: %d</string>
     <string name="remind_user_suspect_number_title">Остерегайтесь мошенничества</string>
     <string name="remind_user_suspect_number_message">Преступники могут украсть номера чужих телефонов. 
 

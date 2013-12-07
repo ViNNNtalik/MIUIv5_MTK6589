@@ -126,6 +126,8 @@
     <string name="bytes">%1$s/%2$s</string>
     <string name="pending">Ожидание…</string>
     <string name="paused">Пауза</string>
+    <string name="resume">Продолжить</string>
+    <string name="downloading">Пауза</string>
     <string name="connecting">Подключение…</string>
     <string name="verifying">Проверка на вирусы…</string>
     <string name="installing">Установка</string>

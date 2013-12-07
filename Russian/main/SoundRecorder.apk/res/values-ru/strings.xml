@@ -72,6 +72,7 @@
     <string name="preference_enable_earpiece_title">Использовать приемник</string>
     <string name="preference_enable_earpiece_summary">Использовать приемник для внешнего воспроизведения аудио</string>
     <string name="error_filename_too_long">Имя файла слишком длинное</string>
+    <string name="error_filename_illegal_char">Имя файла содержит недопустимые символы</string>
     <string name="duration_format_hour">%sч</string>
     <string name="duration_format_minute">%sм</string>
     <string name="duration_format_second">%sс</string>

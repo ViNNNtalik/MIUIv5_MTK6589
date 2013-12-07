@@ -421,7 +421,7 @@
     <string name="readmode_reach_last_page">Достигнута последняя страница</string>
     <string name="save_bookmark">В закладки</string>
     <string name="delete_bookmark">Из закладок</string>
-    <string name="send_to_desktop">Ярлык</string>
+    <string name="send_to_popular">Популярное</string>
     <string name="copy_link">Копировать</string>
     <string name="share_link">Поделиться</string>
     <string name="open_all_bookmarks">Открыть все</string>

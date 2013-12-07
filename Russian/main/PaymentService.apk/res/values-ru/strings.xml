@@ -106,7 +106,7 @@
     <string name="msg_picker_hint_2_1">2.</string>
     <string name="msg_picker_hint_2_2">За каждую SMS взимается плата, согласно тарифу вашего оператора</string>
     <string name="msg_picker_hint_3_1">3.</string>
-    <string name="msg_picker_hint_3_2">Максимальная сумма пополнения 300 юаней в месяц</string>
+    <string name="msg_picker_hint_3_2">Максимальная сумма пополнения в месяц: ￥%1$s</string>
     <string name="msg_denomination_type">Mi-кредит</string>
     <string name="msg_error">Ошибка пополнения через SMS</string>
     <string name="progress_msg_creating">Создание SMS для пополнения…</string>

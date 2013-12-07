@@ -223,8 +223,9 @@
     <string name="add_to_cloud_exceeded_the_size_message">Слишком большой размер файла</string>
     <string name="add_to_cloud_type_not_support_message">Тип файла не поддерживается</string>
     <string name="add_to_cloud_file_not_exist_message">Файл не существует</string>
+    <string name="add_to_cloud_image_limit_exceeded_message">Достигнут лимит</string>
     <string name="add_to_cloud_failed_message_with_count">Нельзя добавить в облачные альбомы: %s</string>
-    <string name="add_to_cloud_reasons"></string>
+    <string name="add_to_cloud_reasons" />
     <string name="add_to_cloud_unknow_reasons">Неизвестная ошибка</string>
     <string name="cant_delete_cloud_album"> Ошибка удаления: %s нет прав доступа к альбому</string>
     <string name="cannot_delete_sharer_photo">Невозможно удалить: %s. Файл загружен другим пользователем</string>
@@ -365,6 +366,7 @@
     <string name="quotation">\"%s\"</string>
     <string name="by_sms">SMS</string>
     <string name="by_email">Почта</string>
+    <string name="by_others">Прочее</string>
     <string name="enter_email_hint">"Введите адрес эл. почты "</string>
     <string name="messagelist_sender_self">Я</string>
     <string name="adding_recipients">Добавление получателей…</string>

@@ -111,7 +111,12 @@
     <string name="act_aqi_so2_title">SO2</string>
     <string name="act_aqi_no2_title">NO2</string>
     <string name="first_start_network_toast_text">Access network to get weather information.</string>
-    <string name="menu_chart">Диаграмма</string>
-    <string name="install_sina">Нажмите для установки Sina Weibo</string>
-    <string name="chart_weather_title">Диаграмма погоды</string>
+    <string name="act_weather_find_city_search_online">поиск</string>
+    <string name="act_weather_find_city_connect_net">Подключите интернет и повторите попытку</string>
+    <string name="weather_unit">°</string>
+    <string name="weather_unit_middle">~</string>
+    <string name="weather_unit_with_c">℃</string>
+    <string name="act_weather_find_city_searching">Поиск…</string>
+    <string name="act_init_dialog_finish">Добавлена информация о глобальной погоде</string>
+    <string name="loading_weather">Загрузка…</string>
 </resources>

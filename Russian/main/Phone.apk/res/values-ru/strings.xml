@@ -1383,6 +1383,10 @@ SIM-карта будет заблокирована навсегда при н�
     <string name="enable_antispam_strange_summary">Не уведомлять о первом входящем вызове от неизвестного номера</string>
     <string name="phone_info_divider">" ｜ "</string>
     <string name="sim_picker_timer_miui">(%1$ds)</string>
+    <string name="sim_slot_alert_title">Подсказка для SIM-карт</string>
+    <string name="sim_slot_alert_message">Вставив %s SIM-карту в первый слот, вы сможете наслаждаться высокой скоростью 3G</string>
+    <string name="sim_slot_alert_shutdown">Выключение</string>
+    <string name="sim_slot_alert_cancel">Продолжить использование</string>
     <string name="oldman_answer_call_button_text">ответить</string>
     <string name="oldman_reject_call_button_text">отклонить</string>
     <string name="oldman_end_call_button_text">завершить</string>

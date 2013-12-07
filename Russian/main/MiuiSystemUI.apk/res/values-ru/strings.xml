@@ -138,8 +138,6 @@ d MMMM yyyy"</string>
     <string name="usb_mtp_text">Файлы</string>
     <string name="usb_notification_mtp_ticker_text">USB подключен (файлы)</string>
     <string name="usb_notification_ptp_ticker_text">USB подключен (фото)</string>
-    <string name="move_data_to_sdcard_title">Перенос данных на SD-карту</string>
-    <string name="move_data_to_sdcard_message">Скриншоты и фотографии будут перенесены на SD-карту, чтобы освободить больше места на внутреннем хранилище</string>
     <string name="user_guide_for_notification">При получении нового уведомления, можно раскрыть панель состояния для получения дополнительных сведений</string>
     <string name="user_guide_for_toggle">Список переключателей можно прокручивать по горизонтали</string>
     <string name="user_guide_for_toggle_list">Нажмите, чтобы настроить список переключателей</string>
@@ -157,9 +155,9 @@ d MMMM yyyy"</string>
     <string name="filter_item_preview_image">Предпросмотр</string>
     <string name="filter_item_description">Вы можете в меню \"Настройки-Панель состояния-пользовательские уведомления\" задать тип уведомлений</string>
     <string name="settings_notification_bar">Панель уведомления</string>
-    <string name="settings_screenshot_notification_disabled">Скриншот без уведомления</string>
     <string name="settings_toggle_position">Расположение переключателей</string>
     <string name="settings_toggle_collapse_after_clicked">Свернуть после нажатия</string>
+    <string name="settings_screenshot_notification_disabled">Скриншот без уведомления</string>
     <string name="settings_expanded_view">Настройки раскрытия</string>
     <string name="settings_status_bar">Панель состояния</string>
     <string name="settings_show_network_speed">Отображать скорость сети</string>
@@ -184,6 +182,8 @@ d MMMM yyyy"</string>
     <string name="camera_key_action_shortcut_wake">Блокировка</string>
     <string name="torch_activity_name">Фонарик</string>
     <string name="torch_activity_hint">Фонарик можно быстро включить, удерживая [icon] на экране блокировки</string>
+    <string name="torch_opened">Фонарик открыт</string>
+    <string name="torch_closed">Фонарик закрыт</string>
     <string name="lockscreen_carrier_default">(нет сети)</string>
     <string name="chooseUsbActivity">Выберите приложение для USB-устройств</string>
     <string name="usb_storage_title">Подключение по USB</string>
@@ -261,6 +261,7 @@ d MMMM yyyy"</string>
     <string name="audio_effect_settings">Тип наушников</string>
     <string name="audio_effect_info">Улучшение звука</string>
     <string name="audio_effect_custom">Настройки</string>
+    <string name="usb_share_net_info">Использовать Интернет компьютера</string>
     <string name="status_bar_toggle_ac">Доступ</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_brightness">Яркость</string>
@@ -294,9 +295,24 @@ d MMMM yyyy"</string>
     <string name="status_bar_toggle_power_low">Экономия</string>
     <string name="status_bar_toggle_power_mid">Баланс</string>
     <string name="status_bar_toggle_power_high">Произв.</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <string name="screen_rotation_freeze_message">Поворот экрана заблокирован в ландшафтном режиме</string>
     <string name="screen_button_disabled_message">Нижние клавиши отключены. Вы можете включить их снова, нажав клавиши \"Домой\" + \"Питание\".</string>
     <string name="screen_button_enabled_message">Нижние клавиши включены</string>
-    <string name="settings_statusbar_style">Настройки стиля</string>
-    <string name="center_clock_title">Часы по центру</string>
 </resources>
