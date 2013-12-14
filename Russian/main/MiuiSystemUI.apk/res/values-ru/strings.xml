@@ -315,4 +315,8 @@ d MMMM yyyy"</string>
     <string name="screen_rotation_freeze_message">Поворот экрана заблокирован в ландшафтном режиме</string>
     <string name="screen_button_disabled_message">Нижние клавиши отключены. Вы можете включить их снова, нажав клавиши \"Домой\" + \"Питание\".</string>
     <string name="screen_button_enabled_message">Нижние клавиши включены</string>
+    <string name="settings_statusbar_style">Стиль статусбара</string>
+    <string name="center_clock_title">Часы по центру</string>
+    <string name="cust_carrier_label_title">Настройка оператора</string>
+    <string name="cust_carrier_label_text_title">Настройка названия оператора</string>
 </resources>

@@ -71,7 +71,7 @@
     <string name="fisheye_polymorphism">photoeditor_effect_fisheye</string>
     <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
     <string name="dummy_vs">uniform mat4 mg_ModelView, mg_Projection; attribute vec2 mg_TexCoord0, mg_TexCoord1; attribute vec3 mg_Vertex; varying vec2 mg_UV0, mg_UV1; void main() { gl_Position = mg_Projection * mg_ModelView * vec4(mg_Vertex, 1); mg_UV0 = mg_TexCoord0; mg_UV1 = mg_TexCoord1; }</string>
-    <string name="dummy_fs">precision mediump float; uniform mat4 mg_TextureMatrix; uniform sampler2D mg_Texture0, mg_Texture1; uniform vec4 mg_Color; uniform float mg_Texture0_Weight, mg_Texture1_Weight, mg_Color_Weight; uniform vec4 mg_Texture0_Modulate, mg_Texture1_Modulate; varying vec2 mg_UV0, mg_UV1; vec2 transform_uv(vec2 uv) { vec4 v = vec4(uv, 0, 1); v = mg_TextureMatrix * v; return v.xy; } void main() { vec4 col = vec4(0, 0, 0, 0); if(mg_Texture0_Weight > 0.05) { col += mg_Texture0_Modulate * texture2D(mg_Texture0, transform_uv(mg_UV0)) * mg_Texture0_Weight; } if(mg_Texture1_Weight > 0.05) { col += mg_Texture1_Modulate * texture2D(mg_Texture1, transform_uv(mg_UV1)) * mg_Texture1_Weight; } if(mg_Color_Weight > 0.05) { col += mg_Color * mg_Color_Weight; } gl_FragColor = col; }</string>
+    <string name="dummy_fs">precision mediump float; uniform mat4 mg_TextureMatrix; uniform sampler2D mg_Texture0, mg_Texture1; uniform vec4 mg_Color; uniform float mg_Texture0_Weight, mg_Texture1_Weight, mg_Color_Weight; uniform vec4 mg_Texture0_Modulate, mg_Texture1_Modulate; varying vec2 mg_UV0, mg_UV1; vec2 transform_uv(vec2 uv) { vec4 v = vec4(uv, 0, 1); v = mg_TextureMatrix * v; return v.xy; } void main() { vec4 col = vec4(0, 0, 0, 0); if(mg_Texture0_Weight > 0.05) { col += mg_Texture0_Modulate * texture2D(mg_Texture0, transform_uv(mg_UV0)) * mg_Texture0_Weight; } if(mg_Texture1_Weight > 0.05) { col += mg_Texture1_Modulate * texture2D(mg_Texture1, transform_uv(mg_UV1)) * mg_Texture1_Weight; } if(mg_Color_Weight > 0.05) { col += mg_Color * mg_Color_Weight; } if(col.a &lt; 0.01) { discard; } gl_FragColor = col; }</string>
     <string name="app_name">Галерея</string>
     <string name="details_ms">%1$02d:%2$02d</string>
     <string name="details_hms">%1$d:%2$02d:%3$02d</string>
@@ -222,8 +222,8 @@
     <string name="add_to_cloud_file_exist_message">В выбранном альбоме уже существует изображение с таким именем</string>
     <string name="add_to_cloud_exceeded_the_size_message">Слишком большой размер файла</string>
     <string name="add_to_cloud_type_not_support_message">Тип файла не поддерживается</string>
-    <string name="add_to_cloud_file_not_exist_message">Файл не существует</string>
     <string name="add_to_cloud_image_limit_exceeded_message">Достигнут лимит</string>
+    <string name="file_not_exist_message">Файл не существует</string>
     <string name="add_to_cloud_failed_message_with_count">Нельзя добавить в облачные альбомы: %s</string>
     <string name="add_to_cloud_reasons" />
     <string name="add_to_cloud_unknow_reasons">Неизвестная ошибка</string>
@@ -496,7 +496,11 @@
     <string name="picker_no_items_selected">Не выбрано элементов</string>
     <string name="picker_select_album_title_empty">Выбрать альбом</string>
     <string name="picker_no_album_selected">Не выбрано альбомов</string>
-    <string name="video_download_start">Начать загрузку видео</string>
-    <string name="video_download_in_process">Видео загружается</string>
-    <string name="video_not_exist">Видео не существует</string>
+    <string name="download">Загрузка</string>
+    <string name="confirm_download">Загрузить файл \"%s\"? \nПодсказка больше не будет отображаться</string>
+    <string name="download_fail">Ошибка загрузки</string>
+    <string name="download_fail_confirm_continue">Ошибка загрузки \"%s\". Продолжить?</string>
+    <string name="make_download_dir_fail">Ошибка создания папки для хранения файлов</string>
+    <string name="delete_smb_file_fail">Ошибка удаления файла smb</string>
+    <string name="new_device_tips">Доступно новое устройство. Нажмите для просмотра</string>
 </resources>
