@@ -25,6 +25,7 @@
     <string name="optimize_title_ad">Реклама</string>
     <string name="optimize_title_apk">Приложения</string>
     <string name="optimize_title_residual">Мусор</string>
+    <string name="button_text_quick_scan">Сканировать</string>
     <string name="button_text_a_key_clean_up">Очистка</string>
     <string name="button_text_a_key_optimize">Оптимизировать</string>
     <string name="button_text_done">Готово</string>
@@ -34,6 +35,7 @@
     <string name="storage_size_title">Память</string>
     <string name="storage_size_content">Использовано: %1$s | Доступно: %2$s</string>
     <string name="quick_scan_doing_title">Сканирование…</string>
+    <string name="quick_scan_done_title">Сканирование завершено</string>
     <string name="quick_scan_cleaning_title">Очистка…</string>
     <string name="quick_scan_result_title">Найдено файлов: %s</string>
     <string name="quick_scan_result_summary">Очистка начнется через %d сек.</string>
@@ -47,10 +49,14 @@
     <string name="optimize_apk_list_empty_content">apk не найдено</string>
     <string name="optimize_residual_list_empty_content">Мусора не найдена</string>
     <string name="optimize_tips_title">Помощь</string>
-    <string name="optimize_tips_ad">iconРеклама \nДанные, связанные с рекламой, которые распространяются со сторонними приложениями.</string>
-    <string name="optimize_tips_apk">"iconApk \nФайлы, предназначенные только для установки приложений.</string>
-    <string name="optimize_tips_cache">iconКэш \nВременные файлы, которые создаются в процессе работы некоторых приложений.</string>
-    <string name="optimize_tips_residual">iconМусор \nОставшиеся файлы, загруженные с помощью приложений, которые были удалены. Будьте внимательны при очистке этих файлов.</string>
+    <string name="optimize_tips_ad_title">Реклама:</string>
+    <string name="optimize_tips_ad_content">Изображения, текстовые файлы и другие данные, связанные с рекламой, которые распространяются со сторонними приложениями.</string>
+    <string name="optimize_tips_apk_title">Apk:</string>
+    <string name="optimize_tips_apk_content">Файлы, предназначенные только для установки приложений</string>
+    <string name="optimize_tips_cache_title">Кэш:</string>
+    <string name="optimize_tips_cache_content">Временные файлы, которые создаются в процессе работы некоторых приложений</string>
+    <string name="optimize_tips_residual_title">Мусор:</string>
+    <string name="optimize_tips_residual_content">Оставшиеся файлы, загруженные с помощью приложений, которые были удалены. Будьте внимательны при очистке этих файлов</string>
     <string name="quick_scan_apk_list_item_version_hit">Версия: %s</string>
     <string name="apk_status_uninstalled">Не установлено</string>
     <string name="apk_status_installed_old">Старая версия</string>
@@ -63,9 +69,12 @@
     <string name="system_cache_title">Системный кэш</string>
     <string name="downloaded_rom_title">Пакеты обновлений</string>
     <string name="optimize_large_file_list_empty_content">Большие файлы не найдены.</string>
-    <string name="deep_clean_tips_cache">iconКэш \nВременные файлы, которые создаются в процессе работы некоторых приложений.</string>
-    <string name="deep_clean_tips_residual">iconМусор \nОставшиеся файлы, загруженные с помощью приложений, которые были удалены. Будьте внимательны при очистке этих файлов.</string>
-    <string name="deep_clean_tips_large_file">iconБольшие файлы \nФайлы, размером более 10 Мб, которые, возможно, вы решите удалить.</string>
+    <string name="deep_clean_tips_cache_title">Кэш:</string>
+    <string name="deep_clean_tips_cache_content">Временные файлы, которые создаются в процессе работы некоторых приложений</string>
+    <string name="deep_clean_tips_residual_title">Мусор:</string>
+    <string name="deep_clean_tips_residual_content">Оставшиеся файлы, загруженные с помощью приложений, которые были удалены. Будьте внимательны при очистке этих файлов</string>
+    <string name="deep_clean_tips_large_file_title">Большие файлы:</string>
+    <string name="deep_clean_tips_large_file_content">Файлы, размером более 10 Мб, которые, возможно, вы решите удалить</string>
     <string name="toast_qucik_scan_list_empty">Очистка не требуется!</string>
     <string name="quick_scan_list_loading_hits">Сканирование…</string>
     <string name="app_uninstall_residual">Очистить мусор приложений?</string>
@@ -352,7 +361,8 @@
     <string name="perm_su_disabled_in_stable_desc">"Включение и предоставление прав суперпользователя может привести к нестабильности системы, потере личных и системных данных, а также повреждению оборудования.
 
 Пожалуйста, переключитесь на версию для разработчиков"</string>
-    <string name="perm_su_disabled_desc">Включение и предоставление прав суперпользователя может привести к нестабильности системы, потере личных и системных данных, а также повреждению оборудования</string>
+    <string name="perm_su_disabled_desc">Включение и предоставление прав суперпользователя может привести к нестабильности системы, 
+потере личных и системных данных, а также повреждению оборудования</string>
     <string name="perm_su_disabled_in_stable_download">Скачать MIUI</string>
     <string name="perm_hips_switch">Отслеживание прав</string>
     <string name="perm_hips">Управление разрешениями</string>
@@ -367,6 +377,7 @@
     <string name="perm_hips_disable_content">Отключение остановит мониторинг приложений и не будет больше защищать Вашу безопасность и конфиденциальность. Вы уверены, что хотите отключить?</string>
     <string name="perm_su_enable_title">Права суперпользователя</string>
     <string name="perm_su_enable_content">"Включение этой возможности позволит приложениям запрашивать доступ от суперпользователя.
+
 Внимание: приложения с разрешениями могут вызвать нестабильность в работе системы, а также потерю личных данных. Вы уверены, что хотите включить режим суперпользователя?"</string>
     <string name="perm_log_clear_title">Очистка журнала</string>
     <string name="perm_log_clear_content">Очистить журнал разрешений?</string>
@@ -390,10 +401,8 @@
     <string name="perm_sysopt_boost_auto_start">Разрешить автозапуск</string>
     <string name="perm_sysopt_boost_auto_start_summary">Разрешить этому приложению автозапуск</string>
     <string name="perm_su_enable_dialog">"%1$s пытается получить права суперпользователя.  По умолчанию Root доступ отключен для обеспечения безопасности системы. Если вам необходимо включить его, войдите в приложение \"Безопасность\", и активируйте пункт \"Права суперпользователя\"."</string>
-    <string name="trust_switch_dialog_msg">"Система не будет спрашивать вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью.
-Доверять этому приложению?"</string>
-    <string name="auto_startup_dialog_msg">"Система позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи.
-Разрешить автозапуск?"</string>
+    <string name="trust_switch_dialog_msg">"Система не будет спрашивать вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Доверять этому приложению?"</string>
+    <string name="auto_startup_dialog_msg">"Система позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи. Разрешить автозапуск?"</string>
     <string name="perm_mian_name">Разрешения</string>
     <string name="perm_manage_tab_title">Разрешения</string>
     <string name="app_manage_tab_title">Приложения</string>
@@ -404,7 +413,8 @@
     <string name="perm_app_header">Менеджер разрешений</string>
     <string name="perm_app_title">Управление разрешениями</string>
     <string name="perm_log_empty">Журнал пуст</string>
-    <string name="perm_notice">Оповещение безопасности</string>
+    <string name="perm_root_manage_empty">Установленные приложения не имеют прав суперпользователя</string>
+    <string name="perm_app_manage_empty">Нет отслеживаемых приложений</string>
     <string name="power_autorun_control_title">Автозапуск</string>
     <string name="power_autorun_control_desc">Большое количество приложений с автозапуском могут повлиять на энергопотребление батареи.</string>
     <string name="power_usage_sort_title">Энергопотребление</string>
@@ -523,7 +533,7 @@
     <string name="virus_scan_app_find_risk">Найдены угрозы (%d), рекомендуется удалить</string>
     <string name="virus_scan_app_scan_finish">Сканирование завершено!</string>
     <string name="virus_scan_app_no_risk">Угроз не найдено</string>
-        <string name="firewall_settings_tab_title">Правила</string>
+    <string name="firewall_settings_tab_title">Правила</string>
     <string name="black_white_list_tab_title">Фильты</string>
     <string name="call_log_tab_title">Журнал вызовов</string>
     <string name="mms_log_tab_title">Журнал сообщений</string>

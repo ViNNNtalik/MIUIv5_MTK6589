@@ -4,6 +4,7 @@
     <string name="mediaplaybacklabel">Музыка</string>
     <string name="music_picker_title">Выберите песню</string>
     <string name="mi_effect">MiSound</string>
+    <string name="find_ktv">Поиск музыки в KTV</string>
     <string name="complete">Готово</string>
     <string name="confirm">ОК</string>
     <string name="cancel">Отмена</string>
@@ -101,8 +102,7 @@
     <string name="frequentlyplayed_title">Частые</string>
     <string name="sdcard_missing_message">Отсутствует SD-карта</string>
     <string name="sdcard_missing_message_nosdcard">Отсутствует USB-хранилище</string>
-    <string name="sdcard_busy_message">SD-карта занята
-</string>
+    <string name="sdcard_busy_message">SD-карта занята</string>
     <string name="sdcard_busy_message_nosdcard">USB-хранилище используется</string>
     <string name="sdcard_error_message">Ошибка SD-карты</string>
     <string name="sdcard_error_message_nosdcard">Ошибка USB-хранилища</string>
@@ -132,6 +132,7 @@
     <string name="send_to_application">Отправить в другое приложение</string>
     <string name="download">Загрузить</string>
     <string name="download_processing">Загрузка</string>
+    <string name="download_completed">Загружено</string>
     <string name="download_batch_start">Начать загрузку всех</string>
     <string name="delete_file_from_sdcard">Удалить файлы с SD-карты</string>
     <string name="recommend">Рекомендуемые</string>
@@ -160,6 +161,8 @@
     <string name="music_open_other_connect">Загрузка музыки с помощью мобильной передачи данных</string>
     <string name="impunity_declaration_title">Примечание</string>
     <string name="impunity_declaration">Онлайн-музыка, которую Вы собираетесь использовать, предоставляется Baidu Online Music. Нажмите \"OK\" для продолжения или кнопку \"Отмена\" для выхода</string>
+    <string name="synchronize_to_baidu_cloud">Резервное копирование плейлистов онлайн через сервис Baidu-облако</string>
+    <string name="synchronize_guide_toast">Для включения синхронизации зайдите в \"Настройки\" > \"Синхронизировать плейлист\".</string>
     <string name="music_filter_helper">Чтобы скрывать файлы, которые не связаны с музыкой, применяется размер фильтра 800 Кб. Порог можно настроить в меню Настройки/Файловый фильтр</string>
     <string name="modify_meta">Изменить</string>
     <string name="id3_edit">Изменение ID3-тегов вручную</string>
@@ -216,6 +219,7 @@
     <string name="playlist_recently_played">Недавние</string>
     <string name="playlist_frequently_played">Частые</string>
     <string name="playlist_favorite">Избранное</string>
+    <string name="playlist_my_ktv">Плейлист KTV</string>
     <string name="create_playlist_create_text_prompt">Название плейлиста</string>
     <string name="create_confirm">ОК</string>
     <string name="overwrite_confirm">Перезаписать</string>
@@ -242,7 +246,6 @@
     <string name="headphone_settings">Настройки наушников</string>
     <string name="mi_effect_title">Использовать MiSound усилитель</string>
     <string name="mi_effect_summary">Всегда использовать MiSound усилитель при прослушивании через наушники</string>
-    <string name="dirac_mode_off">Dirac откл.</string>
     <string name="dirac_mode_in_ear">Наушники-вкладыши Xiaomi</string>
     <string name="dirac_mode_earbuds">Наушники Xiaomi</string>
     <string name="dirac_mode_piston_100">Наушники Xiaomi</string>
@@ -252,7 +255,6 @@
     <string name="eq_jazz">Джаз</string>
     <string name="eq_pop">Поп</string>
     <string name="eq_classical">Классика</string>
-    <string name="eq_rb">"R &amp; B"</string>
     <string name="eq_hiphop">Хип Хоп</string>
     <string name="eq_blues">Блюз</string>
     <string name="eq_electronic">Электроника</string>
@@ -268,6 +270,42 @@
     <string name="eq_preset_hint">Введите название</string>
     <string name="eq_preset_select">Выберите настройку</string>
     <string name="music_not_loaded">Звук не был загружен.</string>
+    <string name="scan_barcode_to_connect">Сканируйте QR-код консоли KTV</string>
+    <string name="where_is_barcode">Где получить QR-код?</string>
+    <string name="i_know">ОК</string>
+    <string name="ktv_alert_title">Только поддерживаемые устройства могут добавлять треки</string>
+    <string name="ktv_alert_message">Нажмите \"Использовать телефон для добавления треков\" на главной странице консоли KTV, чтобы просмотреть соответствующий QR-код.</string>
+    <string name="ktv_and_room">%1$s %2$s</string>
+    <string name="ktv_connected_alert_titel">Подключиться к \"%1$s\"</string>
+    <string name="ktv_connected_alert_message">Выбранный трек будет добавлен в плейлист KTV</string>
+    <string name="ktv_disconnect_alert_titel">Отключиться от %1$s?</string>
+    <string name="ktv_song_vod_success">Добавлено \"%1$s\"</string>
+    <string name="ktv_song_vod_fail">Ошибка добавления \"%1$s\"</string>
+    <string name="ktv_unbind_message">Ошибка подключения к консоли KTV. Убедитесь, что вы сканируете корректный QR-код.</string>
+    <string name="request_fail">Ошибка запроса</string>
+    <string name="disconnect">Отключиться</string>
+    <string name="server_error">Ошибка сервера</string>
+    <string name="requesting">Выполняется запрос…</string>
+    <string name="track_bit_rate_standard">Хорошее</string>
+    <string name="track_bit_rate_hd">Высокое</string>
+    <string name="track_bit_rate_uhd">Наилучшее</string>
+    <string name="choose_stream_quality">Выберите качество потока</string>
+    <string name="choose_download_quality">Выберите качество загрузки</string>
+    <string name="ultra_high_quality">Наивысшее качество</string>
+    <string name="high_quality">Высокое качество</string>
+    <string name="normal_quality">Хорошее качество</string>
+    <string name="login_first">Сначала войдите в аккаунт Xiaomi</string>
+    <string name="login">Вход</string>
+    <string name="payment_success">Оплата завершена</string>
+    <string name="payment_fail">Ошибка оплаты</string>
+    <string name="pay_service_guide_listen">Качество потока</string>
+    <string name="pay_service_guide_dowload">Качество загрузки</string>
+    <string name="vip_recommend_title">Получить музыку высокого качества</string>
+    <string name="vip_recommend_main_title">Неограниченное количество качественной музыки (320 кбит/c)</string>
+    <string name="vip_recommend_sub_title">Всего 5 юаней в месяц</string>
+    <string name="vip_recommend_summary">Скачивайте или слушайте онлайн ваших любимых исполнителей в высоком качестве через сервис Baidu Music.</string>
+    <string name="vip_recommend_buy">Оплатить (5 юаней в месяц)</string>
+    <string name="vip_recommend_exchange">Использовать подарочный код</string>
     <string name="albumsongseparator">"
 "</string>
     <string name="notification_artist_album">"%2$s

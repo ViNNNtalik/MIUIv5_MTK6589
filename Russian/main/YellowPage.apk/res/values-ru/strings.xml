@@ -15,6 +15,7 @@
     <string name="toast_text_copied">Текст скопирован</string>
     <string name="provider_tag">Данные</string>
     <string name="all_numbers">Все номера</string>
+    <string name="provider">Идентифицировано от %s</string>
     <string name="callrecordview_item_newcontact">Новый контакт</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d мин. %2$d сек.</string>
     <string name="callrecordview_item_op_time_only_minutes">%d мин.</string>
@@ -45,17 +46,12 @@
     <string name="selected_category_format">%1$s(%2$d - номер отмечен, продолжить?)</string>
     <string name="mark_title_null_hint">Ввод не может быть пустым</string>
     <string name="smart_antispam">Определение номеров</string>
-    <string name="turn_on_smart_antispam_hint">Номера будут определяться автоматически.
-Если номер не определился, можно отметить его вручную и загрузить данные на сервер</string>
+    <string name="turn_on_smart_antispam_hint">Номера будут определяться автоматически. Если номер не определился, можно отметить его вручную и загрузить данные на сервер</string>
     <string name="turn_on_smart_antispam_title">Определение номеров</string>
     <string name="turn_on_smart_antispam_summary_on">Использовать базу данных онлайн</string>
     <string name="turn_on_smart_antispam_summary_off">Использовать локальную базу данных</string>
     <string name="agree">Подтвердить</string>
-    <string name="user_notice_identify_summary_format">"Определение неизвестных
-
-номеров работает с помощью онлайн-службы.
-
-Прочтите перед использованием: %1$s и %2$s"</string>
+    <string name="user_notice_identify_summary_format">"Определение неизвестных номеров работает с помощью онлайн-службы. Прочтите перед использованием: %1$s и %2$s"</string>
     <string name="user_notice_yp_detail_summary_format">Часть информации будет загружена с помощью онлайн-службы. Прочтите: %1$s and %2$s, нажмите \"Подтвердить\", чтобы принять лицензионное соглашение</string>
     <string name="about_smart_antispam_summary">Об идентификации номеров</string>
     <string name="about_telephone_fraud">Будьте в курсе мошенничества</string>
@@ -113,6 +109,7 @@
     <string name="express_inquiry_internal_failure">Ошибка.
 Пожалуйста, проверьте номер отслеживания</string>
     <string name="express_inquiry_data_owner">Отслеживание номера заказа предоставляется %s</string>
+    <string name="express_inquiry_data_owner_suffix" />
     <string name="scan">Сканировать</string>
     <string name="express_inqiury_select_logistics">Курьерская компания</string>
     <string name="expresss_inquiry_frequently_used_logistics">Общие</string>
@@ -123,12 +120,21 @@
     <string name="express_inquiry_delete_warning_single">Удалить эту запись?</string>
     <string name="express_inquiry_delete_warning_multiple">Удалить выбранные записи? \n\nЗаписей: %d</string>
     <string name="remind_user_suspect_number_title">Остерегайтесь мошенничества</string>
-    <string name="remind_user_suspect_number_message">Преступники могут украсть номера чужих телефонов. 
-
-В случае сомнений, пожалуйста, перезвоните, чтобы проверить. Органы общественной безопасности, почтового сектора, электронной коммерции компании и курьерские компании не запрашивают информацию о банковских картах</string>
+    <string name="remind_user_suspect_number_message">Преступники могут украсть номера чужих телефонов.  В случае сомнений, пожалуйста, перезвоните, чтобы проверить. Органы общественной безопасности, почтового сектора, электронной коммерции компании и курьерские компании не запрашивают информацию о банковских картах</string>
     <string name="remind_another_time">Не вводите этот номер</string>
     <string name="remind_user_confirm">OK</string>
     <string name="balance_inquiry_title">Запрос баланса</string>
     <string name="balance_inquiry_default_sp_name">Оператор</string>
     <string name="balance_inquiry_send_sms_hint">Бесплатное сообщение будет отправлено для запроса баланса</string>
+    <string name="navigation_search_automatically_positioned_city">Текущий город</string>
+    <string name="navigation_search_positioning">Поиск местоположения…</string>
+    <string name="navigation_search_positioning_failed">Выберите город</string>
+    <string name="navigation_search_no_city_list">Нет результатов</string>
+    <string name="navigation_search_hot_cities">Популярные</string>
+    <string name="navigation_search_all_cities">Все города</string>
+    <string name="order_empty_hint">Нет заказов</string>
+    <string name="order_merchant_title">Мои заказы - %s</string>
+    <string name="order_id">ID заказа: %s</string>
+    <string name="order_status">%s</string>
+    <string name="order_price">%s</string>
 </resources>

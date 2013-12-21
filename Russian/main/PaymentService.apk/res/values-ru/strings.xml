@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Mi-кредит</string>
+    <string name="format_time">MMM dd, yyyy hh:mmaa</string>
+    <string name="format_date">MMM. dd, yyyy</string>
+    <string name="colon">": "</string>
     <string name="label_order_name">"Продукт: "</string>
     <string name="label_order_price">"Цена: "</string>
     <string name="label_balance">Баланс:</string>
@@ -41,11 +44,14 @@
     <string name="error_verify_summary">Приложение не имеет разрешения на запрос этого сервиса</string>
     <string name="error_expired_summary">Срок заказа истек</string>
     <string name="error_frozen_title">Аккаунт заморожен</string>
-    <string name="error_frozen_summary">Ваш аккаунт заморожен</string>
+    <string name="error_frozen_summary">Ваш аккаунт заморожен
+</string>
     <string name="error_account_changed_title">Аккаунт изменен</string>
-    <string name="error_account_changed_summary">Ваш аккаунт изменился. Пожалуйста, проверьте и перезапустите</string>
+    <string name="error_account_changed_summary">Ваш аккаунт изменился. 
+Пожалуйста, проверьте и перезапустите</string>
     <string name="error_too_frequent_visits_title">Слишком часто!</string>
-    <string name="error_too_frequent_visits_summary">Вы совершаете запрос слишком часто. Пожалуйста, попробуйте еще раз через пять минут</string>
+    <string name="error_too_frequent_visits_summary">Вы совершаете запрос слишком часто. 
+Пожалуйста, попробуйте еще раз через пять минут</string>
     <string name="error_giftcard_summary">Невозможно получить информацию о подарочной карте</string>
     <string name="error_bankcard_verify_summary">Ошибка проверки карты</string>
     <string name="title_recharge">Пополнить Mi-кредит</string>
@@ -153,8 +159,7 @@
     <string name="bankcall_phone_debit_hint">Обеспечение стабильной сети</string>
     <string name="bankcall_phone_credit_hint">Телефон на банковской карте</string>
     <string name="bankcall_hint">Этот сервис авторизован Unionpay и имеет шифрование для обеспечения вашей финансовой безопасности.</string>
-    <string name="bankcall_call_hint">"Вам позвонят из Union pay (020-96585). 
-Следуйте инструкциям для завершения."</string>
+    <string name="bankcall_call_hint">"Вам позвонят из Union pay (020-96585). Следуйте инструкциям для завершения."</string>
     <string name="btn_wait_call">Ожидание</string>
     <string name="btn_wait_call_count">Ожидание (%1$s)</string>
     <string name="bankcall_error_card">Введите корректный номер банковской карты</string>
@@ -207,9 +212,7 @@
     <string name="btn_net_connection_retry">Повторить</string>
     <string name="pay_record_typeall">Все</string>
     <string name="mibi_license_title">Пользовательское соглашение</string>
-    <string name="mibi_license_message">"Использовать сервис Xiaomi Mi-кредит?
-
-Нажимая клавишу \"ОК\", вы соглашаетесь соблюдать %1$s"</string>
+    <string name="mibi_license_message">"Использовать сервис Xiaomi Mi-кредит? Нажимая клавишу \"ОК\", вы соглашаетесь соблюдать %1$s"</string>
     <string name="mibi_license_message_span">пользовательское соглашение Mi-кредит.</string>
     <string name="security_setting">Настройки безопасности</string>
     <string name="lockscreen_forgot_pattern_button_text"><u>Ключ для напоминания пароля</u></string>
@@ -248,23 +251,27 @@
     <string name="title_nopassword">Не запрашивать при небольших платежах</string>
     <string name="title_password_threshold">Ежедневный лимит = ￥%1$s</string>
     <string name="title_nopassword_dialog">Ежедневный лимит</string>
-    <string name="onemore_click_exit">Нажмите еще раз для выхода</string>
-    <string name="btn_pay_large">Оплатить</string>
-    <string name="next">Далее</string>
-    <string name="prepaid_china_mobile">Оператор 1</string>
-    <string name="prepaid_china_telcom">Оператор 2</string>
-    <string name="prepaid_china_unicom">Оператор 3</string>
-    <string name="progress_submit_pay_summary">Платеж: %1$s RMB</string>
-    <string name="title_pay">Оплата Mi-кредит</string>
-    <string name="micloud_summary">Войдите в аккаунт Xiaomi чтобы синхронизировать контакты, фото, сообщения и другие данные с облачным сервисом.</string>
-    <string name="micloud_is_what">Что такое MiCloud?</string>
-    <string name="micloud_more">Подробнее</string>
-    <string name="micloud_intro_01_part_01">Экономия на SMS сообщениях</string>
-    <string name="micloud_intro_01_part_02">MIUI бесплатные сообщения через интернет.</string>
-    <string name="micloud_intro_02_part_01">Синхронизация данных</string>
-    <string name="micloud_intro_02_part_02">MiCloud синхронизация данных с облачным сервисом.</string>
-    <string name="micloud_intro_03_part_01">Безопасность в использовании</string>
-    <string name="micloud_intro_03_part_02">Управление данными на i.xiaomi.com\".</string>
-    <string name="micloud_dspt">MiCloud - управление данными в любое время!</string>
-    <string name="voucher_error_password_empty">Код пустой</string>
+    <string name="button_confirm">ОК</string>
+    <string name="button_next">Далее</string>
+    <string name="scan_prompt_number">Сканировать номер карты %1$s</string>
+    <string name="scan_prompt_password">Сканировать пароль карты %1$s</string>
+    <string name="scan_prompt_voucher">Сканировать пароль Mi-кредита</string>
+    <string name="detail_recharge_title">Записи поплнения</string>
+    <string name="detail_recharge_order">Номер заказа пополнения</string>
+    <string name="detail_recharge_account">ID пополнения</string>
+    <string name="detail_pay_account">ID платежа</string>
+    <string name="detail_recharge_method">Метод</string>
+    <string name="detail_recharge_amount">Сумма</string>
+    <string name="detail_recharge_time">Время</string>
+    <string name="detail_consume_title">Записи оплаты</string>
+    <string name="detail_consume_order">ID платежа</string>
+    <string name="detail_consume_account">ID покупки</string>
+    <string name="detail_consume_name">Продукт</string>
+    <string name="detail_consume_amount">Количество</string>
+    <string name="detail_consume_time">Время</string>
+    <string name="detail_giftcard_title">Сведения о карте</string>
+    <string name="detail_giftcard_total">Всего карт</string>
+    <string name="detail_giftcard_activity">Подарочные карты</string>
+    <string name="detail_giftcard_expired_time">Дата окончания</string>
+    <string name="detail_giftcard_theme">Покупка тем</string>
 </resources>
