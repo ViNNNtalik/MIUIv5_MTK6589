@@ -554,7 +554,6 @@
     <string name="battery_info_notexist">Отсутствует</string>
     <string name="battery_info_supply">В использовании</string>
     <string name="bluetooth">Bluetooth</string>
-    <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
     <string name="bluetooth_is_discoverable">Время видимости для устройств Bluetooth: %1$s</string>
     <string name="bluetooth_is_discoverable_always">Отображать для ближайших устройств Bluetooth</string>
     <string name="bluetooth_not_visible_to_other_devices">Не отображать для других Bluetooth-устройств</string>
