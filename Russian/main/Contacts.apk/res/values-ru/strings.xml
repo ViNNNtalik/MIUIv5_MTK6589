@@ -803,6 +803,7 @@
     <string name="noRecentContacts">Нет контактов</string>
     <string name="hint_search_contacts">Контактов: %d</string>
     <string name="hint_search_phone_numbers">Контактов: %d</string>
+    <string name="hint_search_emails">Почтовых адресов: %d</string>
     <string name="pick_favorites_contacts_list_title">Избранных контактов: %1$d</string>
     <string name="pick_recent_contacts_list_title">Всего контактов: %1$d</string>
     <string name="loading_groups">Загрузка групп…</string>
@@ -1149,4 +1150,9 @@
     <string name="refresh">Обновить</string>
     <string name="yellowpage_navigation_search_city_name_hint">Город</string>
     <string name="yellowpage_navigation_search_select_city">Выберите город</string>
+    <string name="yellowpage_navigation_search_result_no_more">Больше результатов нет</string>
+    <string name="yellowpage_navigation_search_result_network_error">Ошибка подключения к сети</string>
+    <string name="yellowpage_navigation_search_result_service_error">Сервис недоступен</string>
+    <string name="yellowpage_navigation_search_result_unknown_error">Неизвестная ошибка</string>
+    <string name="t9_search_guide">Введите номер телефона или найдите его с помощью T9</string>
 </resources>

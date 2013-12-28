@@ -2886,6 +2886,7 @@ SIM/RUIM не поддерживает</string>
     <string name="erase_internal_storage">Очистить внутреннее хранилище</string>
     <string name="erase_internal_storage_description">Удалить с внутреннего хранилища все данные, в том числе музыку и фотографии</string>
     <string name="storage_format">Форматирование</string>
+    <string name="system_storage">Системная память</string>
     <string name="usage_log">Статистика использования приложения</string>
     <string name="bluetooth_device_searchable">Видимость</string>
     <string name="usb_msd_title">Накопитель</string>
@@ -2933,6 +2934,7 @@ SIM/RUIM не поддерживает</string>
     <string name="dirac_mode_in_ear">Наушники</string>
     <string name="dirac_mode_earbuds">Гарнитура</string>
     <string name="dirac_mode_piston_100">Наушники Xiaomi</string>
+    <string name="dirac_mode_general">Общие</string>
     <string name="equalizer">Эквалайзер</string>
     <string name="wifi_menu_wfd">Wi-Fi-дисплей</string>
     <string name="wfd_settings_title">Wi-Fi-дисплей</string>
@@ -3662,4 +3664,30 @@ Android File Transfer,
     <string name="flip_2_mute_summary">Доступ к дополнительным настройкам</string>
     <string name="level">G-сенсор</string>
     <string name="level_summary">Калибровка G-сенсора/акселерометра</string>
+    <string name="preferred_launcher_warning_title">Замена стандартного лаунчера</string>
+    <string name="preferred_launcher_warning_message">Замена стандартного лаунчера может повлечь за собой большее потребление энергии, ухудшение скорости работы, ухудшить безопасность личных данных и т.д.</string>
+    <string name="preferred_launcher_warning_replace">Замена</string>
+    <string name="preferred_launcher_warning_use_system">Отмена</string>    
+    <string name="eq_flat">По умолчанию</string>
+    <string name="eq_rock">Рок</string>
+    <string name="eq_jazz">Джаз</string>
+    <string name="eq_pop">Поп</string>
+    <string name="eq_classical">Клаcсика</string>
+    <string name="eq_rb">R&amp;B</string>
+    <string name="eq_hiphop">Хип-хоп</string>
+    <string name="eq_blues">Блюз</string>
+    <string name="eq_electronic">Электроник</string>
+    <string name="eq_country">Кантри</string>
+    <string name="eq_dance">Дэнс</string>
+    <string name="eq_metal">Металл</string>
+    <string name="eq_delete">Удалить</string>
+    <string name="eq_delete_success">Успешно удалено</string>
+    <string name="eq_auto">Пользовательский</string>
+    <string name="eq_preset_create">Создать</string>
+    <string name="eq_preset_rename">Переименовать</string>
+    <string name="eq_preset_format">Кастомизировано %d</string>
+    <string name="eq_preset_hint">Имя пресета</string>
+    <string name="eq_preset_select">Выберите пресет</string>
+    <string name="screen_color_temperature_and_saturation_adjust">Температура и насыщенность</string>
+    <string name="antispam_quiet_mode_title">Тихий режим</string>
 </resources>

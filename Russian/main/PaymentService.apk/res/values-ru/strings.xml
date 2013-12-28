@@ -20,6 +20,7 @@
     <string name="button_recharge">Пополнить</string>
     <string name="balance_payment">%1$s Mi-кредитов</string>
     <string name="balance_giftcard_payment">%1$s Mi-кредит (подарочная карта на %2$s Mi-кредитов)</string>
+    <string name="balance_no_giftcard_payment">%1$s Mi-кредит (нельзя использовать подарочную карту для этого заказа)</string>
     <string name="balance">Баланс: %1$s Mi-кредитов</string>
     <string name="giftcard_value">(Подарочная карта на %1$s Mi-кредитов)</string>
     <string name="frozen">(заморожен)</string>

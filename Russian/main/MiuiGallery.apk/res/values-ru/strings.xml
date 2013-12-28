@@ -76,7 +76,6 @@
     <string name="details_ms">%1$02d:%2$02d</string>
     <string name="details_hms">%1$d:%2$02d:%3$02d</string>
     <string name="loading">Загрузка...</string>
-    <string name="loading_thumbnail">Загрузка эскизов...</string>
     <string name="no_thumbnail">Нет эскизов</string>
     <string name="crop_save_text">Сохранить</string>
     <string name="multiface_crop_help">Нажмите на лицо, чтобы начать</string>
@@ -351,6 +350,14 @@
     <string name="error_should_not_select_video">Не выбирайте видео</string>
     <string name="storage_all_volumes">Все накопители</string>
     <string name="settings_i_xiaomi_com">Войдите на сайт i.xiaomi.com, чтобы просмотреть синхронизированные изображения</string>
+    <string name="loading_thumbnail">Загрузка эскизов…</string>
+    <string name="video_not_exist">Видео не существует</string>
+    <string name="loading_video">Загрузка видео…</string>
+    <string name="loading_image">Загрузка изображения…</string>
+    <string name="loading_suspend">Загрузка будет продолжена при подключении к сети Wi-Fi</string>
+    <string name="confirm_download_video_title">Загрузка видео</string>
+    <string name="confirm_download_video_message">Для просморта видео необходимо полностью загрузить его. Загрузка будет продолжена при подключении к Wi-Fi</string>
+    <string name="image_download_item_title">Скачать изображение (%s)</string>
     <string name="cloud_album_more_settings">Облачные альбомы</string>
     <string name="browse_category">Просмотр</string>
     <string name="photo_page_save_image">Сохранить</string>
@@ -505,7 +512,7 @@
     <string name="make_download_dir_fail">Ошибка создания папки для хранения файлов</string>
     <string name="delete_smb_file_fail">Ошибка удаления файла smb</string>
     <string name="new_device_tips">Доступно новое устройство. Нажмите для просмотра</string>
-    <string name="video_download_start">Начать загрузку видео</string>
-    <string name="video_download_in_process">Видео загружается</string>
-    <string name="video_not_exist">Видео не существует</string>
+    <string name="time_line_view">TimeLine_View</string>
+    <string name="folder_holder_file">Необходимо удалить этот файл позже</string>
+    <string name="click_to_enter_camera">Нет изображений и видео</string>
 </resources>

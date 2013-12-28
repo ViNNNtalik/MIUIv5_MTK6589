@@ -298,6 +298,7 @@
     <string name="login">Вход</string>
     <string name="payment_success">Оплата завершена</string>
     <string name="payment_fail">Ошибка оплаты</string>
+    <string name="pay_service_guide_new">Музыка высокого качества доступна</string>
     <string name="pay_service_guide_listen">Качество потока</string>
     <string name="pay_service_guide_dowload">Качество загрузки</string>
     <string name="vip_recommend_title">Получить музыку высокого качества</string>
