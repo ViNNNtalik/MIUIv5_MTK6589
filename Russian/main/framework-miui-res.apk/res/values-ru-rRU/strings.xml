@@ -539,7 +539,7 @@
     <string name="hours">%d часов</string>
     <string name="minutes">%d минут</string>
     <string name="shutdown_confirm_title">Вы хотите выключить устройство?</string>
-    <string name="reboot_confirm_title">Вы хотеле перезагрузить устройство?</string>
+    <string name="reboot_confirm_title">Вы хотите перезагрузить устройство?</string>
     <string name="err_resource_leak">К сожалению, \"%1$s\" остановлен для избежания утечки ресурсов.</string>
     <string name="app_notificaiton_on_statusBar_and_notificationBar">Панели сост. и увед.</string>
     <string name="app_no_notification">Ничего</string>
