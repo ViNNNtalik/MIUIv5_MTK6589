@@ -26,7 +26,6 @@
     <string name="menu_move">Переместить</string>
     <string name="menu_stick">Закрепить</string>
     <string name="menu_unstick">Открепить</string>
-    <string name="menu_font_size">Размер шрифта</string>
     <string name="menu_folder_change_name">Переименовать</string>
     <string name="folder_exist">Папка %1$s уже существует, введите другое имя</string>
     <string name="menu_send_to_desktop">Ярлык на рабочий стол</string>
@@ -56,6 +55,7 @@
     <string name="error_contact_not_exist">Контакт не существует</string>
     <string name="preferences_title">Настройки</string>
     <string name="preferences_bg_random_appear_title">Случайный цвет</string>
+    <string name="pref_title_font_size">Размер шрифта</string>
     <string name="call_record_folder_name">Заметки вызова</string>
     <string name="hint_foler_name">Введите имя</string>
     <string name="search_label">Поиск заметок</string>
