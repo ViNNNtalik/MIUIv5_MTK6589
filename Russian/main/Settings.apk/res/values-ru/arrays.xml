@@ -607,7 +607,11 @@
     <string-array name="led_color_values">
         <item>blue</item>
         <item>red</item>
+        <item>yellow</item>
         <item>green</item>
+        <item>cyan</item>
+        <item>white</item>
+        <item>\#FFAA00AA</item>
     </string-array>
     <string-array name="mi1_led_color_values">
         <item>blue</item>
