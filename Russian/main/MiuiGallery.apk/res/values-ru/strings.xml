@@ -217,6 +217,7 @@
     <string name="storage_no_space">Не хватает места</string>
     <string name="add_to_cloud_album">Добавить в альбом</string>
     <string name="move_to_cloud_album">Переместить</string>
+    <string name="move">Переместить</string>
     <string name="add_to_cloud_successfully_message">Добавлено в облачный альбом</string>
     <string name="add_to_cloud_space_full_message">Облачный альбом заполнен</string>
     <string name="add_to_cloud_local_space_full_message">Хранилище заполнено или недоступно</string>
@@ -231,11 +232,11 @@
     <string name="cant_delete_cloud_album"> Ошибка удаления: %s нет прав доступа к альбому</string>
     <string name="cannot_delete_sharer_photo">Невозможно удалить: %s. Файл загружен другим пользователем</string>
     <string name="share_album">Отправить альбом</string>
-    <string name="share_album_qr_code">QR-код</string>
-    <string name="scan_qr_code_top_text">Облачный альбом</string>
+    <string name="share_album_owner">Владелец</string>
+    <string name="loading_members">Загрузка пользователей…</string>
     <string name="scan_qr_code_buttom_text">Сканируйте QR-код для просмотра этого альбома</string>
-    <string name="request_qr_code">Получение QR-кода…</string>
-    <string name="request_qr_code_failed">Ошибка получения QR-кода. Повторите еще раз</string>
+    <string name="request_qr_code_failed">Не удалось выполнить запрос</string>
+    <string name="retry_to_request_qr_code">Повторить</string>
     <string name="album_member">Пользователи %s</string>
     <string name="add_sharer">Добавить получателя</string>
     <string name="album_name">Имя альбома</string>
@@ -319,8 +320,10 @@
     <string name="pick_too_much_tips">Невозможно выбрать столько элементов. Максимум: %d</string>
     <string name="sd_not_available">SD-карта отмонтирована или недоступна</string>
     <string name="internal_sd_card">Внутреннее хранилище</string>
+    <string name="internal_sd_card_hm">Внутреннее хранилище</string>
     <string name="external_sd_card">SD-карта</string>
     <string name="external_usb_device">USB-хранилище</string>
+    <string name="external_usb_device_hm">USB-накопитель</string>
     <string name="menu_item_sort">Сортировка</string>
     <string name="menu_item_sort_name_asc">По имени (по убыванию)</string>
     <string name="menu_item_sort_name_desc">По имени (по возрастанию)</string>
@@ -358,6 +361,7 @@
     <string name="confirm_download_video_title">Загрузка видео</string>
     <string name="confirm_download_video_message">Для просморта видео необходимо полностью загрузить его. Загрузка будет продолжена при подключении к Wi-Fi</string>
     <string name="image_download_item_title">Скачать изображение (%s)</string>
+    <string name="item_not_sync">Этот файл не был синхронизирован с облаком и не может быть загружен</string>
     <string name="cloud_album_more_settings">Облачные альбомы</string>
     <string name="browse_category">Просмотр</string>
     <string name="photo_page_save_image">Сохранить</string>
@@ -515,4 +519,8 @@
     <string name="time_line_view">TimeLine_View</string>
     <string name="folder_holder_file">Необходимо удалить этот файл позже</string>
     <string name="click_to_enter_camera">Нет изображений и видео</string>
+    <string name="share_album_qr_code">QR-код</string>
+    <string name="scan_qr_code_top_text">Облачный альбом</string>
+    <string name="request_qr_code">Получение QR-кода…</string>
+
 </resources>

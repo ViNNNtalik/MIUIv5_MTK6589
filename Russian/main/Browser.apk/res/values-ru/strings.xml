@@ -605,8 +605,14 @@
     <string name="quicklink_user_define_webpage_url">URL</string>
     <string name="user_defined_webpage_title">Добавить на стартовую страницу</string>
     <string name="quicklinks_most_visited">Добавить ссылку на стартовую страницу</string>
+    <string name="quicklinks_most_visited_title">Добавить ссылку на стартовую страницу</string>
     <string name="quicklinks_most_visited_subtitle">Добавление популярных сайтов на стартовую страницу</string>
     <string name="quicklinks_group_default_subtitle">Пусто</string>
+    <string name="add_quicklink_to_popular">Добавить в популярные сайты</string>
+    <string name="quicklink_saved_before">Ссылка уже добавлена в популярные сайты</string>
+    <string name="network_alert_message">Сеть Wi-Fi недоступна, использовать 3G?</string>
+    <string name="yes">ОК</string>
+    <string name="no">Отмена</string>
     <string name="webapp_autohority">miui.browser.webapps</string>
     <string name="webapp_app0">miui.browser.webapps.app.WebApps$App0</string>
     <string name="webapp_app1">miui.browser.webapps.app.WebApps$App1</string>

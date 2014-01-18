@@ -20,7 +20,7 @@
     <string name="cache_manage_title">Очистка кэша: %1$d, освободит: %2$s</string>
     <string name="cache_list_empty_hints">Нет кэша</string>
     <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
-    <string name="fancy_icon_power_center">com.miui.powercenter</string>
+    <string name="fancy_icon_power_center">com.miui.powercenter.PowerCenter</string>
     <string name="optimize_title_cache">Кэш</string>
     <string name="optimize_title_ad">Реклама</string>
     <string name="optimize_title_apk">Приложения</string>
@@ -67,6 +67,7 @@
     <string name="deep_clean_title_residual">Мусор приложений</string>
     <string name="deep_clean_title_large_file">Большие файлы</string>
     <string name="system_cache_title">Системный кэш</string>
+    <string name="empty_folder_title">Пустые папки (%d)</string>
     <string name="downloaded_rom_title">Пакеты обновлений</string>
     <string name="optimize_large_file_list_empty_content">Большие файлы не найдены.</string>
     <string name="deep_clean_tips_cache_title">Кэш:</string>
@@ -84,6 +85,11 @@
     <string name="clean_confirm_title">Удалить эти файлы?</string>
     <string name="button_text_delete">Удалить</string>
     <string name="cleaner_support_hints">Поддержка: Clean Master</string>
+    <string name="list_sub_view_item_view">Просмотр</string>
+    <string name="list_sub_view_item_clean">Очистка</string>
+    <string name="list_sub_view_item_install">Установка</string>
+    <string name="list_sub_view_item_lock">Блок.</string>
+    <string name="list_sub_view_item_unlock">Разблок.</string>
     <string name="opt_clean_garbage">Очищено %d Мб</string>
     <string name="opt_killed_process">Остановлено процессов: %d</string>
     <string name="opt_freed_ram">Освобождено памяти: %d Мб</string>
@@ -239,11 +245,24 @@
     <string name="power_settings_shape">Графический</string>
     <string name="power_settings_number">Процентный</string>
     <string name="power_settings_top">Полоса в статусбаре</string>
+    <string name="power_save_on_time_goout_title">Режим по окончании периода</string>
+    <string name="power_save_choose_recovery_mode">Режим</string>
+    <string name="power_new_choose_mode">Выбор режима</string>
+    <string name="power_save_low_battery_option_recovery_title">Режим при зарядке</string>
+    <string name="power_save_on_time_option_recovery_title">Режим по окончании периода</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">Невозможно удалить. \n
+Телефон использует этот режим во время зарядки. Необходимо изменить настройки экономии батареи перед удалением этого режима.</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Невозможно удалить. \nТелефон использует этот режим по окончании периода экономии батареи по расписанию. Необходимо изменить настройки экономии батареи перед удалением этого режима.</string>
+    <string name="power_mode_chooser_button_text">Применить</string>
     <string name="application_info_label">О приложении</string>
     <string name="version_text">Версия %1$s</string>
     <string name="security_relative">Безопасные разрешения</string>
     <string name="privacy_relative">Разрешения приватности</string>
+    <string name="perm_mian_name">Разрешения</string>
     <string name="perm_app_name">Безопасность</string>
+    <string name="perm_manage_tab_title">Разрешения</string>
+    <string name="app_manage_tab_title">Приложения</string>
+    <string name="app_log_tab_title">Журнал разрешений</string>
     <string name="perm_copyright">Техническая поддержка: LBE Privacy Guard</string>
     <string name="perm_version">версия: %1$s</string>
     <string name="perm_configuration">Параметры</string>
@@ -351,7 +370,6 @@
     <string name="perm_log">Журнал</string>
     <string name="perm_header">Управление %1$d приложениями</string>
     <string name="perm_header_disabled">Управление разрешениями отключено</string>
-    <string name="perm_su_enable_summary">Разрешение приложениям использовать права суперпользователя</string>
     <string name="perm_su_switch">Права суперпользователя</string>
     <string name="perm_su">Права суперпользователя</string>
     <string name="perm_su_desc">Управление правами суперпользователя в приложениях %1$d</string>
@@ -376,14 +394,15 @@
     <string name="perm_hips_disable_title">Мониторинг разрешений</string>
     <string name="perm_hips_disable_content">Отключение остановит мониторинг приложений и не будет больше защищать Вашу безопасность и конфиденциальность. Вы уверены, что хотите отключить?</string>
     <string name="perm_su_enable_title">Права суперпользователя</string>
+    <string name="perm_su_enable_summary">Разрешение приложениям использовать права суперпользователя</string>
     <string name="perm_su_enable_content">"Включение этой возможности позволит приложениям запрашивать доступ от суперпользователя.
 
 Внимание: приложения с разрешениями могут вызвать нестабильность в работе системы, а также потерю личных данных. Вы уверены, что хотите включить режим суперпользователя?"</string>
     <string name="perm_log_clear_title">Очистка журнала</string>
     <string name="perm_log_clear_content">Очистить журнал разрешений?</string>
     <string name="perm_privacy_count">Разрешено: %1$d Запрещено: %2$d</string>
-    <string name="perm_privacy_app_count">%1$d разрешения</string>
     <string name="perm_privacy_app_trust_summary">доверенное</string>
+    <string name="perm_privacy_app_count">%1$d разрешения</string>
     <string name="perm_privacy_app_trust">Доверять приложению</string>
     <string name="perm_privacy_app_trust_summary_off">Система не будет контролировать это приложение</string>
     <string name="perm_privacy_app_trust_summary_on">Система будет доверять этому приложению</string>
@@ -401,12 +420,9 @@
     <string name="perm_sysopt_boost_auto_start">Разрешить автозапуск</string>
     <string name="perm_sysopt_boost_auto_start_summary">Разрешить этому приложению автозапуск</string>
     <string name="perm_su_enable_dialog">"%1$s пытается получить права суперпользователя.  По умолчанию Root доступ отключен для обеспечения безопасности системы. Если вам необходимо включить его, войдите в приложение \"Безопасность\", и активируйте пункт \"Права суперпользователя\"."</string>
+    <string name="perm_notice">Оповещение</string>
     <string name="trust_switch_dialog_msg">"Система не будет спрашивать вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Доверять этому приложению?"</string>
     <string name="auto_startup_dialog_msg">"Система позволит приложению запускаться автоматически. Это может привести к потреблению трафика или батареи. Разрешить автозапуск?"</string>
-    <string name="perm_mian_name">Разрешения</string>
-    <string name="perm_manage_tab_title">Разрешения</string>
-    <string name="app_manage_tab_title">Приложения</string>
-    <string name="app_log_tab_title">Журнал разрешений</string>
     <string name="auto_start_summary">Приложений с автозапуском: %1$d</string>
     <string name="auto_start_title">Автозапуск</string>
     <string name="perm_app_enable">Монитор запросов разрешений</string>
@@ -415,6 +431,7 @@
     <string name="perm_log_empty">Журнал пуст</string>
     <string name="perm_root_manage_empty">Установленные приложения не имеют прав суперпользователя</string>
     <string name="perm_app_manage_empty">Нет отслеживаемых приложений</string>
+    <string name="perm_support_hints">Поддержка: LBE</string>
     <string name="power_autorun_control_title">Автозапуск</string>
     <string name="power_autorun_control_desc">Большое количество приложений с автозапуском могут повлиять на энергопотребление батареи.</string>
     <string name="power_usage_sort_title">Энергопотребление</string>
@@ -473,6 +490,15 @@
     <string name="item_mms">Фильтр нежелательных сообщений</string>
     <string name="score_good_state">Телефон оптимизирован</string>
     <string name="score_need_optimize">Требуется оптимизация</string>
+    <string name="category_key_settings">key_settings</string>
+    <string name="preference_key_create_shortcut">key_create_shortcut</string>
+    <string name="preference_key_about_version">key_about_version</string>
+    <string name="preference_key_shortcut_optimize_center">_key_shortcut_optimize_center</string>
+    <string name="preference_key_shortcut_power_center">key_shortcut_power_center</string>
+    <string name="preference_key_shortcut_network_assistant">key_shortcut_network_assistant</string>
+    <string name="preference_key_shortcut_antispam">key_shortcut_antispam</string>
+    <string name="preference_key_shortcut_virus_center">key_shortcut_virus_center</string>
+    <string name="preference_key_shortcut_perm_center">key_shortcut_perm_center</string>
     <string name="app_name">Безопасность</string>
     <string name="action_settings">Настройки</string>
     <string name="hello_world">Hello world!</string>
@@ -722,6 +748,16 @@
     <string name="finish_optimizing_virus">Окончание…</string>
     <string name="menu_item_about_title">Информация</string>
     <string name="menu_item_about_content">Безопасность: %s</string>
+    <string name="menu_item_about_summary">Версия: %s</string>
+    <string name="menu_item_shortcut">Создать ярлык</string>
+    <string name="menu_item_shortcut_uninstall">Удалить ярлык</string>
+    <string name="menu_item_shortcut_title">Ярлыки</string>
+    <string name="menu_item_shortcut_summary">Добавление ярлыков для быстрого доступа к функциям безопасности</string>
+    <string name="menu_item_settings_title">Настройки</string>
+    <string name="activity_title_create_shortcut">Ярлыки</string>
+    <string name="activity_title_settings">Настройки</string>
+    <string name="toast_shortcut_install">Ярлык добавлен</string>
+    <string name="toast_shortcut_uninstall">Ярлык удален</string>
     <string name="virus_scan_virus_title">Найдено вирусов: %d</string>
     <string name="virus_scan_risk_title">Найдено подозрительных приложений: %d</string>
     <string name="virus_button_clear">Очистка</string>

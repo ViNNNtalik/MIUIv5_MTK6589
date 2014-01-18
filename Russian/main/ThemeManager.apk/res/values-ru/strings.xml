@@ -73,6 +73,7 @@
     <string name="download_success">Успешно загружено</string>
     <string name="basic_info">Основная информация</string>
     <string name="account_info">Мой аккаунт</string>
+    <string name="purchased_list">Купленные темы</string>
     <string name="payment_info">Центр Mi-кредитов</string>
     <string name="theme_batch_has_update_text">Темы, требующие обновления: %1$d</string>
     <string name="theme_batch_updating_text">Тем обновляется: %1$d</string>
@@ -127,6 +128,7 @@
     <string name="resource_downloading">Скачивание</string>
     <string name="resource_waiting_download">Ожидание</string>
     <string name="resource_import_successful">Скачивание завершено</string>
+    <string name="resource_import_failed">Ошибка импортирования</string>
     <string name="resource_delta_update_successful">Delta-обновление сохранено %1$s</string>
     <string name="resource_delta_update_failed">Ошибка Delta-обновления</string>
     <string name="resource_delta_update_total">%1$d обновления сохранены %2$s</string>
@@ -134,6 +136,7 @@
     <string name="resource_update">Обновить</string>
     <string name="resource_buy">"Купить "</string>
     <string name="resource_importing">Импортирование</string>
+    <string name="resource_ringtone_playing_error">Ошибка воспроизведения</string>
     <string name="online_no_network">Не удается подключиться к сети</string>
     <string name="online_search_hint">Введите ключевые слова</string>
     <string name="loading">Загрузка…</string>
@@ -173,6 +176,14 @@
     <string name="resource_purchase_getting_order">Получение информации заказа…</string>
     <string name="resource_purchase_waiting_payment">Ожидание информации о платеже…</string>
     <string name="resource_purchase_verifying_payment">Проверка платежа…</string>
+    <string name="resource_download_trial">Пробная версия</string>
+    <string name="resource_apply_trial">Применить</string>
+    <string name="resource_on_trial">Применение пробной версии: %1$s</string>
+    <string name="resource_trial_time">(пробное время: %1$d мин.)</string>
+    <string name="resource_trial_end_title">Пробное время вышло</string>
+    <string name="resource_trial_end_message">Пробный период %1$s окончен. Если Вам понравилось, вы можете приобрести полную версию.</string>
+    <string name="resource_trial_end_restore">Отмена</string>
+    <string name="resource_trial_end_purchase">Приобрести</string>
     <string name="deleting">Удаление…</string>
     <string name="resource_title_select_ringtone">Выбор мелодии</string>
     <string name="resource_tip_select_ringtone">Ничего не выбрано</string>

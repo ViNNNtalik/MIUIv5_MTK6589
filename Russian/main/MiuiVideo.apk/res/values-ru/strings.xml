@@ -54,6 +54,7 @@
     <string name="day">День</string>
     <string name="update">Обновлено</string>
     <string name="manage">Выбор</string>
+    <string name="finish">Завершить</string>
     <string name="di_count_ji">%d эпизод</string>
     <string name="di_count_qi">%s сезон</string>
     <string name="update_to_count_ji">Обновлено до %d эп.</string>
@@ -166,6 +167,12 @@
     <string name="to_live_status">Going to live</string>
     <string name="will_live_status">Live</string>
     <string name="end_live_status">Over</string>
+
+
+
+
+
+
     <string name="reloading_tip">Не удается подключиться к сети</string>
     <string name="retry">Повторить</string>
     <string name="no_subject">Нет файлов</string>
@@ -190,16 +197,37 @@
     <string name="continue_to_play_nextset_summary">Когда эпизод, который вы смотрите закончится, следующий начнется автоматически</string>
     <string name="clear_cache_summary">Очистить кэш картинок в приложении</string>
     <string name="clear_offline_summary">Очистка кэша видео</string>
+    <string name="load_file_fail">Ошибка локального файла</string>
+    <string name="load_offline_file_fail">Ошибка автономного файла</string>
     <string name="load_failed_to_try">Ошибка загрузки</string>
     <string name="offline_media">Доступно оффлайн</string>
     <string name="have_no_offlinemedia">Пусто</string>
-    <string name="download">Кэш</string>
-    <string name="pause">Пауза</string>
+    <string name="in_download_notification">Кэшируется %d видео</string>
+    <string name="start_download">Начать кэширование</string>
+    <string name="pause_download">Кэширование приостановлено</string>
+    <string name="finish_download">Кэширование завершено</string>
+    <string name="in_download">Кэширование</string>
+    <string name="in_waiting">Ожидание</string>
+    <string name="in_pause">Приостановлено</string>
     <string name="paused">Пауза</string>
-    <string name="download_add_success">Загрузка добавлена в очередь</string>
-    <string name="download_add_file_fail">Ошибка создания файла. Достаточно ли у вас свободного места?</string>
+    <string name="offline_continue">Продолжить</string>
+    <string name="offline_episode">%d</string>
+    <string name="offline_media_more">Кэшировать больше</string>
+    <string name="media_source_unavailable">Файл недоступен</string>
+
+    <string name="download_is_in_tasklist">В списке кэша</string>
+    <string name="download_is_success">Кэшировано</string>
+    <string name="download_file_fail">Ошибка доступа к локальным файлам</string>
     <string name="download_geturl_fail">Ошибка получения ссылки. Проверьте параметры сети</string>
     <string name="download_fail">Ошибка загрузки</string>
+    <string name="download_finish">Кэширование завершено</string>
+    <string name="offline_max_promote">Ожидание кэширования</string>
+    <string name="offline_alert_title">Уведомление кэширования</string>
+    <string name="offline_no_wifi">Сеть Wi-Fi недоступна. Для кэширования необходимо активное интернет соединение.</string>
+    <string name="offline_alert_wifi">Вы используете мобильный интернет. Кэширование приостановлено для экономии мобильного трафика, будет автоматически возобновлено при подключении к сети Wi-Fi.</string>
+    <string name="alert_ignore">Не показывать снова</string>
+    <string name="offline_no_source">Источник кэширования недоступен</string>
+    <string name="offline_select_better_source">Переключено на доступный источник кэширования</string>
     <string name="key_back_down_toast">Нажмите еще раз, чтобы выйти</string>
     <string name="clear_cache_success">Кэш очищен</string>
     <string name="select_media_source">Выберите источник</string>

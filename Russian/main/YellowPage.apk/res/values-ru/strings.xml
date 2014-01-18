@@ -126,6 +126,7 @@
     <string name="balance_inquiry_title">Запрос баланса</string>
     <string name="balance_inquiry_default_sp_name">Оператор</string>
     <string name="balance_inquiry_send_sms_hint">Бесплатное сообщение будет отправлено для запроса баланса</string>
+    <string name="balance_inquiry_send_sms_summmary">Проверить баланс</string>
     <string name="navigation_search_automatically_positioned_city">Текущий город</string>
     <string name="navigation_search_positioning">Поиск местоположения…</string>
     <string name="navigation_search_positioning_failed">Выберите город</string>
@@ -134,7 +135,17 @@
     <string name="navigation_search_all_cities">Все города</string>
     <string name="order_empty_hint">Нет заказов</string>
     <string name="order_merchant_title">Мои заказы - %s</string>
+    <string name="order_merchant_title_format">%1$s-%2$s</string>
     <string name="order_id">ID заказа: %s</string>
     <string name="order_status">%s</string>
     <string name="order_price">%s</string>
+    <string name="general_yellow_page_title">Общие</string>
+    <string name="general_recent_title">Последние</string>
+    <string name="general_favorite_title">Избранные</string>
+    <string name="general_no_yellow_page">Список пуст</string>
+    <string name="general_menu_favorite">Избранное</string>
+    <string name="general_menu_unfavorite">Удалить из избранного</string>
+    <string name="general_menu_delete_recent">Удалить последние</string>
+    <string name="general_cancel_favorite_ok">Удалено из избранного</string>
+    <string name="general_delete_recent_ok">Последние удалены</string>
 </resources>

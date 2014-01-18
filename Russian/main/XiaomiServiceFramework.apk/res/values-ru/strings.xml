@@ -241,4 +241,38 @@
     <string name="activate_status_desc_acquire_sim_pass_token_server_no_info">Не удается получить сведения о безопасности</string>
     <string name="activate_status_desc_acquire_sim_pass_token_password_error">Не удается получить сведения о безопасности из-за неверного пароля</string>
     <string name="checking_input">Проверка данных…</string>
+    <string name="micloud_data_loading">Загрузка…</string>
+    <string name="micloud_space_full_influence"><u>Что делать, если закончилось место в Mi-облако?</u></string>
+    <string name="micloud_title_dspt" formatted="false">Всего: %s \n
+Занято: %s | Свободно: %s</string>
+    <string name="micloud_title_full_dspt" formatted="false">Нет свободного места!</string>
+    <string name="micloud_user_base_info">Информация о пользователе</string>
+    <string name="micloud_user_email">Почта</string>
+    <string name="micloud_user_phone">Номер телефона</string>
+    <string name="micloud_user_name">Имя пользователя</string>
+    <string name="micloud_user_id">ID пользователя</string>
+    <string name="micloud_storage_space">Занято места на Mi-облако</string>
+    <string name="micloud_user_space_usage">Использовано места</string>
+    <string name="micloud_web_discription_01">Посетите сайт i.xiaomi.com </string>
+    <string name="micloud_web_discription_02">для просмотра и управления файлами</string>
+    <string name="micloud_gallery_image">Изображения</string>
+    <string name="micloud_gallery_video">Видео</string>
+    <string name="micloud_app_data">Резервные копии приложений</string>
+    <string name="micloud_account_details">Информация аккаунта</string>
+    <string name="micloud_full_influence_title">Когда нет места на Mi-облако</string>
+    <string name="micloud_warn_full_msg">Больше нет места!</string>
+    <string name="micloud_warn_low_title">Свободное место кончается...</string>
+    <string name="micloud_warn_low_sum">Место занято на 90%</string>
+    <string name="micloud_warn_full_title">Нет свободного места!</string>
+    <string name="micloud_warn_full_sum">Данные не могут быть синхронизированы с Mi-облако в данный момент</string>
+    <string name="micloud_none">Пусто</string>
+    <string name="micloud_full_influence_dspt">Все фото, видео, заметки и данные приложений будут синхронизированы с Mi-облако. \n
+
+Таким образом, если вы потеряете или сломаете устройство, Ваши данные останутся в безопасности. \n
+
+Когда место в Mi-облако заполнено, Ваши данные никуда не пропадут, однако, новые данные не смогут синхронизироваться с Mi-облако.\n
+
+Чтобы это исправить, необходимо будет удалить ненужные данные из Mi-облако</string>
+    <string name="enable_sync_dspt">Синхронизация отключена</string>
+    <string name="enable_sync">Включить</string>
 </resources>

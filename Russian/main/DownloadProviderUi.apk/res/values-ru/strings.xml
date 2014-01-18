@@ -70,4 +70,9 @@
     <string name="editmode_menu_delete">Удалить</string>
     <string name="all_downloads">Все загрузки</string>
     <string name="app_downloads">%s загрузок</string>
+    <string name="xunlei_brand">Поддержка: Xunlei</string>
+    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
+    <string name="xunlei_switch">Ядро загрузки от Xunlei</string>
+    <string name="turn_off_xunlei_title">Выкл. ядро загрузки от Xunlei</string>
+    <string name="turn_off_xunlei_message">Вы можете столкнуться со снижением скорости закачки</string>
 </resources>

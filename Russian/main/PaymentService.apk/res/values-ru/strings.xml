@@ -10,6 +10,7 @@
     <string name="order_price">Mi-кредит: %1$s</string>
     <string name="password_hint">Пожалуйста, введите Ваш пароль Xiaomi-аккаунта:</string>
     <string name="password_error">Пожалуйста, введите Ваш пароль</string>
+    <string name="password_forget">Забыли?</string>
     <string name="progress_creating">Проверка покупки…</string>
     <string name="progress_loading">Обработка. Пожалуйста, подождите…</string>
     <string name="button_cancel">Отмена</string>
