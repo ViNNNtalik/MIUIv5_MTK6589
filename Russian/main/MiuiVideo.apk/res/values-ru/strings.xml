@@ -31,6 +31,7 @@
     <string name="add_review">Добавить отзыв</string>
     <string name="all_reviews">Все комментарии</string>
     <string name="recommendation">Рекомендуется</string>
+    <string name="app_recommendation">Рекомендации</string>
     <string name="special_subject">Специальные</string>
     <string name="rank">Топ</string>
     <string name="others">Прочие</string>
@@ -145,6 +146,7 @@
     <string name="pick_video_to_myfavorite">Выберите</string>
     <string name="pick_myfavorite_to_cancel">Выберите</string>
     <string name="fullscreen_to_play">Полный экран</string>
+    <string name="to_play_airekan">Подкаст</string>
     <string name="connecting">Подключение…</string>
     <string name="retrieving">Получение…</string>
     <string name="cant_connecting">Не удается подключиться к серверу</string>
@@ -214,7 +216,7 @@
     <string name="offline_episode">%d</string>
     <string name="offline_media_more">Кэшировать больше</string>
     <string name="media_source_unavailable">Файл недоступен</string>
-
+    <string name="download_add_success">Загрузка добавлена в очередь</string>
     <string name="download_is_in_tasklist">В списке кэша</string>
     <string name="download_is_success">Кэшировано</string>
     <string name="download_file_fail">Ошибка доступа к локальным файлам</string>
@@ -300,6 +302,8 @@
     <string name="buffering">Буферизация видео…</string>
     <string name="airkan_video_playing_in">Видео</string>
     <string name="airkan_video_playing">Воспроизведение</string>
+    <string name="airkan_tips">Нажмите здесь, чтобы
+воспроизвести видео на ТВ</string>
     <string name="menu_item_orientation_auto_sensor_action">Включить автоповорот</string>
     <string name="menu_item_orientation_fixed_by_videosize_action">Отключить автоповорот</string>
     <string name="menu_item_screen_shot">Скриншот</string>
@@ -325,5 +329,7 @@
     <string name="nowifi_alert_dialog_exit">Отмена</string>
     <string name="menu_item_enable_audio_enhance">Включить улучшение звука</string>
     <string name="menu_item_disable_audio_enhance">Отключить улучшение звука</string>
+    <string name="menu_item_enable_3d_mode">Включить 3D</string>
+    <string name="menu_item_disable_3d_mode">Отключить 3D</string>
     <string name="toast_message_set_misound">Mi-звук</string>
 </resources>

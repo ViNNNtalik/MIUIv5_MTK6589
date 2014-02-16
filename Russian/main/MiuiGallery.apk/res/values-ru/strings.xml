@@ -461,6 +461,7 @@
     <string name="error_album_not_exist">Альбом не существует</string>
     <string name="error_invalid_link">Ссылка недействительна</string>
     <string name="error_socket_timeout">Превышено время ожидания</string>
+    <string name="error_share_with_creator">Вы уже участник этого альбома</string>
     <string name="error_cloud_not_active">Облачный альбом не используется</string>
     <string name="cloud_camera_display_name">изображение с камеры</string>
     <string name="camera_folder_display_name">изображение с камеры</string>

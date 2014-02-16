@@ -35,6 +35,8 @@
     <string name="buffering">Буферизация…</string>
     <string name="airkan_video_playing_in">Видео проигрывается…</string>
     <string name="airkan_video_playing">Трансляция</string>
+    <string name="airkan_tips">Нажмите здесь, чтобы воспроизвести
+видео на ТВ</string>
     <string name="menu_item_orientation_auto_sensor_action">Включить поворот</string>
     <string name="menu_item_orientation_fixed_by_videosize_action">Отключить поворот</string>
     <string name="menu_item_screen_shot">Скриншот</string>
@@ -49,6 +51,8 @@
     <string name="loading_video_netplay_label_v5">Загрузка, пожалуйста подождите…</string>
     <string name="buffering_video_netplay_label_v5">Буферизация…</string>
     <string name="to_be_play_label_v5">Воспроизведение</string>
+    <string name="episode_prefix">Эпизод</string>
+    <string name="episode_suffix" />
     <string name="about_version_label">Номер версии</string>
     <string name="about_developer_label">Разработчик</string>
     <string name="about_developer_name">Proso Digital</string>
@@ -56,4 +60,9 @@
     <string name="nowifi_alert_dialog_message">"Wi-Fi недоступен. Продолжить воспроизведение через 3G?"</string>
     <string name="nowifi_alert_dialog_continue">ОК</string>
     <string name="nowifi_alert_dialog_exit">Отмена</string>
+    <string name="menu_item_enable_audio_enhance">Включить усилитель звука</string>
+    <string name="menu_item_disable_audio_enhance">Выключить усилитель звука</string>
+    <string name="menu_item_enable_3d_mode">Включить 3D</string>
+    <string name="menu_item_disable_3d_mode">Отключить 3D</string>
+    <string name="toast_message_set_misound">Включите Mi-звук</string>
 </resources>

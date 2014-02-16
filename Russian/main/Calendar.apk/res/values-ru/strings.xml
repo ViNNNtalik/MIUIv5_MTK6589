@@ -206,6 +206,7 @@
 
 
     <string name="event_all_day_label">Весь день</string>
+    <string name="today_no_events">Сегодня нет мероприятий</string>
     <string name="event_account">Календарь</string>
     <string name="event_show_more">Дополнительно</string>
     <string name="event_hide_more">Скрыть</string>
@@ -232,11 +233,20 @@
     <string name="gou_piao_item2">Бронирование по телефону 12306</string>
     <string name="gou_piao_item3">Купка билетов по телефону 12306</string>
     <string name="show_gou_piao">Показывать календарь билетов</string>
-
-
-
-
-    <string name="email_organizer_label">E-mail организатора</string>
-    <string name="event_not_found">Событие не найдено</string>
-    <string name="accessibility_email_notification">E-mail гостей</string>
+    <string name="month_medium_january">Январь</string>
+    <string name="month_medium_february">Февраль</string>
+    <string name="month_medium_march">Март</string>
+    <string name="month_medium_april">Апрель</string>
+    <string name="month_medium_may">Май</string>
+    <string name="month_medium_june">Июнь</string>
+    <string name="month_medium_july">Июль</string>
+    <string name="month_medium_august">Август</string>
+    <string name="month_medium_september">Сентябрь</string>
+    <string name="month_medium_october">Октябрь</string>
+    <string name="month_medium_november">Ноябрь</string>
+    <string name="month_medium_december">Декабрь</string>
+    <string name="more_string">Еще %1$s…</string>
+    <string name="copy_email">Копировать адрес эл.почты</string>
+    <string name="copy_number">Копировать номер телефона</string>
+    <string name="done">Готово</string>
 </resources>

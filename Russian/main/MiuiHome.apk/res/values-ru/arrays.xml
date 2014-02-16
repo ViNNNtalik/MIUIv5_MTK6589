@@ -109,4 +109,10 @@
         <item>Floating Dust</item>
         <item>Haze</item>
     </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Сортировка</item>
+        <item>Виджеты</item>
+        <item>Обои</item>
+        <item>Переходы</item>
+    </string-array>
 </resources>

@@ -2,11 +2,13 @@
 <resources>
     <string name="app_label">Желтые страницы</string>
     <string name="phone_info_divider">" | "</string>
+    <string name="call">Вызов</string>
     <string name="check_network">Параметры сети</string>
     <string name="try_again">Повтор</string>
     <string name="network_unavaliable">Сеть недоступна</string>
     <string name="service_unavailiable">Служба недоступна</string>
     <string name="data_error">Служба недоступна</string>
+    <string name="locating_fail">Ошибка определения местоположения, проверьте параметры службы</string>
     <string name="yellow_page_detail_title">Контакт</string>
     <string name="yellow_page_call_log_title">Журнал вызовов</string>
     <string name="yellow_page_website">Официальный сайт</string>
@@ -87,6 +89,8 @@
     <string name="recharge_order_pay">Контроль</string>
     <string name="recharge_history">История пополнений</string>
     <string name="recharge_history_empty">Нет истории</string>
+    <string name="recharge_my_phone_number">Мой номер</string>
+    <string name="recharge_unknown_number">Неизвестный</string>
     <string name="packages_pay">Купить</string>
     <string name="packages_pay_confirm">Подтвердить покупку</string>
     <string name="packages_title">Пакеты</string>
@@ -127,6 +131,7 @@
     <string name="balance_inquiry_default_sp_name">Оператор</string>
     <string name="balance_inquiry_send_sms_hint">Бесплатное сообщение будет отправлено для запроса баланса</string>
     <string name="balance_inquiry_send_sms_summmary">Проверить баланс</string>
+    <string name="balance_inquiry_send_sms_fail_hint">Ошибка отправки SMS. Проверьте SIM-карту</string>
     <string name="navigation_search_automatically_positioned_city">Текущий город</string>
     <string name="navigation_search_positioning">Поиск местоположения…</string>
     <string name="navigation_search_positioning_failed">Выберите город</string>
@@ -148,4 +153,7 @@
     <string name="general_menu_delete_recent">Удалить последние</string>
     <string name="general_cancel_favorite_ok">Удалено из избранного</string>
     <string name="general_delete_recent_ok">Последние удалены</string>
+    <string name="nearby_yellow_page_title">Поблизости</string>
+    <string name="nearby_no_yellow_page">Нет результатов</string>
+    <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
 </resources>

@@ -14,6 +14,7 @@
     <string name="sdcard_unmounted">SD-карта не найдена или отключена</string>
     <string name="backup_progress">Выполняется резервирование…</string>
     <string name="button_ok">ОК</string>
+    <string name="button_continue">Продолжить</string>
     <string name="backup_finished">Резервирование завершено</string>
     <string name="backup_report">Отчет</string>
     <string name="backup_hint">Не выключайте телефон!</string>
@@ -155,8 +156,7 @@
     <string name="refresh">Обновление</string>
     <string name="cloud_item_info_summary">(Локально: %1$s|Облако: %2$s)</string>
     <string name="total_num">%d всего записей</string>
-    <string name="cloud_restore_guide">"Нажмите кнопку \"Начать\" для восстановления данных
-Вы можете восстановить %s в бэкап"</string>
+    <string name="cloud_restore_guide">"Нажмите кнопку \"Начать\" для восстановления данных. Вы можете восстановить %s в бэкап"</string>
     <string name="import_from_xiaomi_account_hint1">"1. Установите MiTalk и войдите в него
 http://www.miliao.com
 
@@ -171,8 +171,7 @@ http://www.miliao.com
     <string name="enable_encrypt_indicator">Резервные копии не зашифрованы. Нажмите здесь, чтобы включить шифрование</string>
     <string name="enable_encrypt">Включить сейчас</string>
     <string name="already_enable_encrypt">Включить шифрование</string>
-    <string name="enable_encrypt_summery1">"Система зашифрует локальную резервную копиючерез Xiaomi-аакаунт. 
-Потребуется войти в него для управления резервными копиями"</string>
+    <string name="enable_encrypt_summery1">"Система зашифрует локальную резервную копиючерез Xiaomi-аакаунт. Потребуется войти в него для управления резервными копиями"</string>
     <string name="enable_encrypt_summery2">Новые резервные копии будут шифроваться автоматически. Требуется войти в Xiaomi-аккаунт для управления резервными копиями</string>
     <string name="enable_encrypt_xiaomi_account">Эта резервная копия была создана %1$s. Пожалуйста, удалите текущий аккаунт и войдите в %2$s для восстановления данных</string>
     <string name="enable_encrypt_ok">OK</string>

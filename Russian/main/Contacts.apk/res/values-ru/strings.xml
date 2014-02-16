@@ -1165,6 +1165,9 @@
     <string name="yellowpage_navigation_search_result_service_error">Сервис недоступен</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Неизвестная ошибка</string>
     <string name="yellowpage_navigation_menu_order">Мой заказ</string>
-    <string name="t9_search_guide">Введите номер телефона или найдите его с помощью T9</string>
-    <string name="login_before_recharging">Сначала надо авторизоваться</string>
+    <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавлено на Домашний экран</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_title">Использование местоположения</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_summary">Услуги будут отображаться согласно вашему местоположению, в каком городе вы находитесь. Включение этой функции может улучшить качество сервисов.</string>
+    <string name="yellowpage_navigation_network_location_enable">Включить</string>
+    <string name="yellowpage_navigation_network_location_enable_later">Позже</string>
 </resources>
