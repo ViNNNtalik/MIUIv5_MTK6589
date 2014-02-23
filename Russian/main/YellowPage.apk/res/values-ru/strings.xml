@@ -9,6 +9,7 @@
     <string name="service_unavailiable">Служба недоступна</string>
     <string name="data_error">Служба недоступна</string>
     <string name="locating_fail">Ошибка определения местоположения, проверьте параметры службы</string>
+    <string name="no_more_result">Нет больше результатов</string>
     <string name="yellow_page_detail_title">Контакт</string>
     <string name="yellow_page_call_log_title">Журнал вызовов</string>
     <string name="yellow_page_website">Официальный сайт</string>

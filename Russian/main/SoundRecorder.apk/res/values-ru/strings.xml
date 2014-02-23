@@ -52,7 +52,7 @@
     <string name="dialog_content_storage_full">Из-за нехватки места для сохранения, запись была остановлена. Открыть файловый менеджер для очистки ненужных файлов?</string>
     <string name="status_bar_anti_disturb">Сторонние звуки отключены</string>
     <string name="status_bar_recording">Запись…</string>
-    <string name="status_bar_back">Запись… [открыть диктофон]</string>
+    <string name="status_bar_back" />
     <string name="status_bar_recording_pause">Пауза</string>
     <string name="record_saving">Сохранение записи, пожалуйста, подождите</string>
     <string name="record_loading">Загрузка записей, пожалуйста, подождите</string>

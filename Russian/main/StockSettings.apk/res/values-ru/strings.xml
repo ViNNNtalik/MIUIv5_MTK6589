@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stock_settings">Доп. настройки</string>
+    <string name="select_memory">Память по умолчанию</string>
+    <string name="dlg_default_write_disk_change_title">Настройки памяти по умолчанию</string>
+    <string name="dlg_default_write_disk_change_msg">Требуется перезагрузка!</string>
+    <string name="dlg_default_write_disk0_change_msg">"If you select the USB storage, the applications that installed in SD storage can't be used and the device will reboot, are you sure to change to USB storage?"</string>
+    <string name="dlg_default_write_disk1_change_msg">"If you select the SD storage, the applications that installed in USB storage can't be used and the device will reboot, are you sure to change to SD storage?"</string>
+    <string name="led_settings">Подсветка</string>
+    <string name="sound_switch">Настройки звука</string>
+    <string name="boot_sound">Звук включения</string>
+    <string name="boot_sound_summary">Вкл/Выкл звук включения</string>
+    <string name="camera_sound">Звук камеры</string>
+    <string name="camera_sound_summary">Вкл/Выкл звук камеры</string>
+    <string name="camera_focus_sound">Звук фокуса камеры</string>
+    <string name="camera_focus_sound_summary">Вкл/Выкл звук фокуса камеры</string>
+    <string name="videorecord_sound">Звук видеозаписи</string>
+    <string name="videorecord_sound_summary">Вкл/Выкл звук видеозаписи</string>
+    <string name="default_memory">Изменение памяти по умолчанию</string>
+    <string name="default_memory_summary">Во включенном состоянии по умолчанию будет использоваться основная память устройства</string>
+</resources>

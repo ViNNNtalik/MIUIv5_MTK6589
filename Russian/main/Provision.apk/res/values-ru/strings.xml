@@ -9,8 +9,7 @@
     <string name="other_service_google_location">Служба местоположения Google</string>
     <string name="other_service_google_location_use">Местоположение и поиск Google</string>
     <string name="other_service_google_location_use_summary">Разрешить использовать Google определение местоположения для улучшения результатов поиска и других услуг</string>
-    <string name="other_service_google_location_use_help">"Разрешить службам Google собирать анонимные данные о Вашем местоположении. Сбор данных будет происходить в фоновом режиме.
-Изменить настройки можно в пункте \"Параметры\" > \"Местоположение\""</string>
+    <string name="other_service_google_location_use_help">"Разрешить службам Google собирать анонимные данные о Вашем местоположении. Сбор данных будет происходить в фоновом режиме. Изменить настройки можно в пункте \"Параметры\" > \"Местоположение\""</string>
     <string name="other_service_permission_manager">Управление правами приложений</string>
     <string name="other_service_permission_manager_summary">Мониторинг приложений для обеспечения безопасности и конфиденциальности</string>
     <string name="other_service_user_experience">Повышение качества</string>
@@ -30,7 +29,7 @@
     <string name="traffic_protection_text_hint">Введите лимит трафика</string>
     <string name="data_usage_summary">Если Вы не установили лимит трафика, рекомендуется отключить передачу данных. Ваш мобильный оператор может взимать плату за использование указанных услуг</string>
     <string name="use_data">Передача данных</string>
+    <string name="default_gprs_sim_name">Введите для \"%s\" лимит трафика</string>
     <string name="input_method_category">Метод ввода по умолчанию</string>
     <string name="input_method">Метод ввода</string>
-    <string name="default_gprs_sim_name">Введите для \"%s\" лимит трафика</string>
 </resources>

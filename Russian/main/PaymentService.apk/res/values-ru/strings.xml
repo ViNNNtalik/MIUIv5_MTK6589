@@ -56,6 +56,9 @@
 Пожалуйста, попробуйте еще раз через пять минут</string>
     <string name="error_giftcard_summary">Невозможно получить информацию о подарочной карте</string>
     <string name="error_bankcard_verify_summary">Ошибка проверки карты</string>
+    <string name="error_cert_date_title">Ошибка сертификата</string>
+    <string name="error_cert_date_summary">Ошибка данных сертификата. \n
+Проверьте данные и повторите попытку</string>
     <string name="title_recharge">Пополнить Mi-кредит</string>
     <string name="recharge_group_favorite">Используемые методы пополнения</string>
     <string name="recharge_group_others">Другие методы пополнения</string>
@@ -128,11 +131,11 @@
     <string name="msg_telecom_sending">Подключение к мобильному провайдеру…</string>
     <string name="btn_recharge_confirm">Подтвердить покупку</string>
     <string name="btn_wait_confirm">Ожидание</string>
-    <string name="btn_wait_confirm_count">Ожидание: %1$s）</string>
-    <string name="msg_telecom_picker_hint_1_1">После подтверждения покупки, ваш телефон будет</string>
-    <string name="msg_telecom_picker_hint_1_2">автоматически подключен с провайдером.</string>
-    <string name="msg_telecom_picker_hint_2_1">Мобильный провайдер подключен!</string>
-    <string name="msg_telecom_picker_hint_2_2">Вы получите текст с подтверждением.</string>
+    <string name="btn_wait_confirm_count">Ожидание: %1$s</string>
+    <string name="msg_order_hint_1_1">После подтверждения покупки, ваш телефон будет</string>
+    <string name="msg_order_hint_1_2">автоматически подключен с провайдером.</string>
+    <string name="msg_progress_hint_2_1">Мобильный провайдер подключен!</string>
+    <string name="msg_progress_hint_2_2">Вы получите текст с подтверждением.</string>
     <string name="giftcard_denom_available">Карта Mi-кредит доступна</string>
     <string name="giftcard_denom">Mi-кредит</string>
     <string name="giftcard_denom_frozen">Карта Mi-кредит заморожена</string>
@@ -258,6 +261,7 @@
     <string name="scan_prompt_number">Сканировать номер карты %1$s</string>
     <string name="scan_prompt_password">Сканировать пароль карты %1$s</string>
     <string name="scan_prompt_voucher">Сканировать пароль Mi-кредита</string>
+    <string name="scan_prompt_retry">Держите карту так, чтобы не было бликов, затем повторите попытку</string>
     <string name="detail_recharge_title">Записи поплнения</string>
     <string name="detail_recharge_order">Номер заказа пополнения</string>
     <string name="detail_recharge_account">ID пополнения</string>
