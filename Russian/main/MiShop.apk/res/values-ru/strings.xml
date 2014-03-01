@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mi-магазин</string>
+    <string name="main_tab">Mi-магазин</string>
+    <string name="product_detail">Подробная информация</string>
+
+    <string name="product_shopping_cart">Корзина</string>
+
+    <string name="title_ordersubmit">Подтверждение заказа</string>
+    <string name="title_edit_cartitem">Изменить корзину</string>
+    <string name="title_online_payment">Онлайн оплата</string>
+    <string name="combo_detail">Подробнее</string>
+    <string name="title_my_coupon">Мои купоны</string>
+
+
+
+
+    <string name="self_confirm_dowloading">Новый пакет установки загружается в…</string>
+    <string name="download_failed_title">Не удалось загрузить</string>
+    <string name="download_failed_tips">Нажмите, чтобы посмотреть</string>
+
+    <string name="checking_update">Проверка обновлений…</string>
+    <string name="no_update">Обновлений не найдено</string>
+    <string name="download_err">Загрузка не удалась. Проверьте подключение к сети</string>
+    <string name="update_no_sd">Загрузка не удалась. SD карта не обнаружена</string>
+    <string name="immediately_update">Обновление</string>
+    <string name="cancel_update">Отмена</string>
+    <string name="currency_unit_template">Сумма ¥%1$s</string>
+    <string name="button_delete">Удалить</string>
+    <string name="menu_orders">Заказы</string>
+    <string name="menu_update">Проверка обновлений</string>
+    <string name="menu_about">О приложении</string>
+    <string name="menu_switch_test">Переключиться в тестовый(Нужна перезагрузка)</string>
+    <string name="menu_switch_formal">Переключиться в обычный(Нужна перезагрузка)</string>
+    <string name="switch_formal_test_hint">Изменения вступят в силу после перезагрузки</string>
+    <string name="menu_refresh">Обновить</string>
+    <string name="tab_indicator_home">Топ</string>
+    <string name="tab_indicator_category">Категории</string>
+    <string name="tab_indicator_shopping">Корзина</string>
+    <string name="tab_indicator_lottery">Лотерея</string>
+    <string name="tab_indicator_account">Счет</string>
+    <string name="about_text">О приложении</string>
+    <string name="version_name_text">Текущая версия:%1$s</string>
+    <string name="check_update_text">Проверка обновлений</string>
+    <string name="question_feedback_text">Обратная связь</string>
+    <string name="kefu_hotline_pri">Центр поддержки: 400-100-5678</string>
+    <string name="kefu_hotline_sec">Время работы: 8:00-18:00</string>
+    <string name="call_kefu_hotline">400-100-5678</string>
+    <string name="network_unavaliable">Не удалось получить данные, проверьте настройки сети</string>
+    <string name="service_unavailiable">Сервис недоступен, повторите попытку позже</string>
+    <string name="data_error">Ошибка данных, повторите попытку позже</string>
+    <string name="check_network">Настройки сети</string>
+    <string name="try_again">Повторите заново</string>
+    <string name="already_add_shopping_cart">Уже добавлено в корзину</string>
+    <string name="shopping_cartlist_text_center_template">Цена:¥%1$s Кол-во:%2$d Итого:¥%3$s</string>
+    <string name="shopping_cartlist_text_bottom_template">Итого:¥%1$s</string>
+    <string name="shopping_count_title">Кол-во товаров</string>
+    <string name="shopping_total_title">Сумма</string>
+    <string name="shopping_cartlist_is_empty">Очистить корзину</string>
+    <string name="shopping_cartlist_title">Список покупок</string>
+    <string name="checkout_next">Далее</string>
+    <string name="micloud_account">Аккаунт</string>
+    <string name="micloud_active_email_sent_1">我们已向您的邮箱</string>
+    <string name="micloud_active_email_sent_2">发送了一封验证邮件</string>
+    <string name="micloud_click_email">"点击邮件中的链接就可以激活您的
+小米账户"</string>
+    <string name="micloud_active_sms_sent">注册短信已经发出</string>
+    <string name="micloud_active_sms_status_wait">请稍等…</string>
+    <string name="micloud_active_sms_status_fail">Регистрация не удалась</string>
+    <string name="micloud_active_sms_status_network">网络链接失败</string>
+    <string name="micloud_active_sms_status_success">注册成功</string>
+    <string name="completed">Завершено</string>
+    <string name="title_login">Вход</string>
+    <string name="title_reg">Регистрация</string>
+    <string name="title_activate">Активация</string>
+    <string name="micloud_account_label">Аккаунт:%1$s</string>
+    <string name="reg_by_email_failure">Регистрация не удалась:%1$s</string>
+    <string name="reg_failed">Регистрация не удалась</string>
+    <string name="login_failed">Вход не удался</string>
+    <string name="error_no_sms_service">SMS сервис недоступен</string>
+    <string name="error_network">Сеть недоступна</string>
+    <string name="error_dup_email">Такой почтовый ящик уже зарегистрирован</string>
+    <string name="error_dup_phone">Такой номер телефона уже зарегистрирован</string>
+    <string name="error_server">Ошибка сервера</string>
+    <string name="error_unknown">Неизвестная ошибка:%1$s</string>
+    <string name="input_password_hint">Введите пароль</string>
+
+    <string name="login_retry">Повторить</string>
+
+    <string name="access_denied">Доступ ограничен</string>
+    <string name="login_ok">Вы вошли в систему, добро пожаловать!</string>
+    <string name="logout_ok">Вы вышли из системы!</string>
+
+</resources>

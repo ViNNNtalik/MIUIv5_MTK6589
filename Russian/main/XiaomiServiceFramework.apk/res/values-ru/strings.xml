@@ -78,8 +78,8 @@
     <string name="error_unknown">Неизвестная ошибка</string>
     <string name="error_invalid_dev_id">Неверный ID устройства</string>
     <string name="error_user_name">Неверное имя пользователя</string>
-    <string name="quick_login_title">Требуется войти в аккаунт. 
-Пожалуйста, введите ваш пароль</string>
+    <string name="quick_login_title">Требуется войти в аккаунт. Пожалуйста, введите ваш пароль</string>
+    <string name="quick_login_step2_title">Защита входа</string>
     <string name="account_name">Аккаунт: %1$s</string>
     <string name="input_password_hint">Введите пароль</string>
     <string name="input_captcha_hint">Ввод кода с картинки</string>
@@ -194,12 +194,8 @@
     <string name="noRemind">Не напоминать</string>
     <string name="restoreSync">Восстановить</string>
     <string name="enableAll">Включить все</string>
-    <string name="master_alert_notif_dspt" formatted="false">В этот период добавлено контактов: %s, сообщений: %s, фото: %s, заметок и других данных: %s. \n\n
-
-Если ваш телефон утерян или очищен, эти данные будут безвозвратно потеряны. Рекомендуется восстанавливать синхронизацию для обеспечения безопасности данных.</string>
-    <string name="sub_alert_notif_dspt" formatted="false">У вас есть несинхронизированные данные. Контактов: %s, сообщений: %s, фото: %s, заметок и других данных: %s. \n\n
-
-Если ваш телефон утерян или очищен, эти данные будут безвозвратно потеряны. Рекомендуется восстанавливать синхронизацию для обеспечения безопасности данных.</string>
+    <string name="master_alert_notif_dspt" formatted="false">В этот период добавлено контактов: %s, сообщений: %s, фото: %s, заметок и других данных: %s. \n\n Если ваш телефон утерян или очищен, эти данные будут безвозвратно потеряны. Рекомендуется восстанавливать синхронизацию для обеспечения безопасности данных.</string>
+    <string name="sub_alert_notif_dspt" formatted="false">У вас есть несинхронизированные данные. Контактов: %s, сообщений: %s, фото: %s, заметок и других данных: %s. \n\n Если ваш телефон утерян или очищен, эти данные будут безвозвратно потеряны. Рекомендуется восстанавливать синхронизацию для обеспечения безопасности данных.</string>
     <string name="wipe_data_dialog_title">Некоторые данные не удалось синхронизировать</string>
     <string name="wipe_data_dialog_msg">%s не синхронизировано</string>
     <string name="dirty_contacts_count">Контактов: %d</string>

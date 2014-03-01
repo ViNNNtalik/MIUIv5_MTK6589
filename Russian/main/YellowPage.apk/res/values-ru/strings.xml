@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="sina_share_pendding">Отправка...</string>
+    <string name="sina_share_success">Отправлено</string>
+    <string name="sina_share_fail">Не удалось отправить</string>
+    <string name="sina_token_expired_warning">Weibo-аккаунт истек: перезайдите</string>
+    <string name="sina_token_invalid_warning">Weibo-аккаунт неправильный: перезайдите</string>
     <string name="app_label">Желтые страницы</string>
     <string name="phone_info_divider">" | "</string>
     <string name="call">Вызов</string>

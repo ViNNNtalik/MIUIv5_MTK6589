@@ -10,6 +10,10 @@
     <string name="chooser_wallpaper">Выбрать обои из</string>
     <string name="activity_not_found">Приложение не установлено</string>
     <string name="cancel_action">Отмена</string>
+    <string name="apply_as_lock_wallpaper">ОК</string>
+    <string name="apply_as_lock_wallpaper_message">Применить выбранные обои также на экран блокировки?</string>
+    <string name="lock_screen_failed_message">Ошибка применения</string>
+    <string name="lock_screen_success_message">Применено</string>
     <string name="menu_item_add_item">Добавить на рабочий стол</string>
     <string name="group_shortcuts">Ярлыки</string>
     <string name="group_folder">Новая папка</string>

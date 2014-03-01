@@ -68,6 +68,7 @@
     <string name="no_updates_warning2">Нет новых версий</string>
     <string name="new_updates_found_title">Поиск обновлений</string>
     <string name="new_update_content_title">Есть новая версия!</string>
+    <string name="new_update_content_notification_shade" />
     <string name="new_update_downloading_body">Загрузка: %s</string>
     <string name="new_update_download_complete_body">Готово к установке: %s</string>
     <string name="update_success_title">Обновление</string>
