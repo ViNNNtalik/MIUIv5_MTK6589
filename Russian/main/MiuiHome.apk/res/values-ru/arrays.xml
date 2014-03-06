@@ -83,31 +83,31 @@
         <item>Классический</item>
     </string-array>
     <string-array name="gadget_weather_image">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Hazy</item>
-        <item>Foggy</item>
-        <item>Severe rainstorm</item>
-        <item>Rainstorm</item>
-        <item>Very heavy rainfall</item>
-        <item>Thunderstorm</item>
-        <item>Shower</item>
-        <item>Heavy rainfall</item>
-        <item>Rain</item>
-        <item>Drizzle</item>
-        <item>Sleet</item>
-        <item>Snowstorm</item>
-        <item>Patches of snowfall</item>
-        <item>Heavy snowfall</item>
-        <item>Snowfall</item>
-        <item>Light snowfall</item>
-        <item>Strong sandstorm</item>
-        <item>Sandstorm</item>
-        <item>Light sandstorm</item>
-        <item>Sandstorm</item>
-        <item>Hail</item>
-        <item>Floating Dust</item>
-        <item>Haze</item>
+        <item>Солнечно</item>
+        <item>Облачно</item>
+        <item>Облачно</item>
+        <item>Туман</item>
+        <item>Сильный дождь</item>
+        <item>Ливень</item>
+        <item>Ливень с ураганом</item>
+        <item>Местами грозы</item>
+        <item>Ливни</item>
+        <item>Сильный дождь</item>
+        <item>Умеренный дождь</item>
+        <item>Небольшой дождь</item>
+        <item>Дождь со снегом</item>
+        <item>Метель</item>
+        <item>Ливни со снегом</item>
+        <item>Сильный снегопад</item>
+        <item>Умеренный снег</item>
+        <item>Небольшой снег</item>
+        <item>Сильная пыльная буря</item>
+        <item>Пыльная буря</item>
+        <item>Пыль</item>
+        <item>Песчаная буря</item>
+        <item>Град</item>
+        <item>Грязь</item>
+        <item>Смог</item>
     </string-array>
     <string-array name="editing_mode_entries">
         <item>Сортировка</item>
